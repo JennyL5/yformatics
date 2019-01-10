@@ -1,0 +1,49 @@
+- type: subject
+  slug: physics
+  name: Physics
+  colour: '#03A9F4'
+  image: physics.svg
+  visible: true
+
+- type: subject
+  slug: chemistry
+  name: Chemistry
+  colour: '#F44336'
+  image: chemistry.svg
+  visible: true
+
+- type: subject
+  slug: biology
+  name: Biology
+  colour: '#66BB6A'
+  image: biology.svg
+  visible: false
+
+- type: subject
+  slug: maths
+  name: Maths
+  colour: '#7E57C2'
+  image: maths.svg
+  visible: false
+
+- type: subject
+  slug: english
+  name: English
+  colour: '#FF9800'
+  image: english.svg
+  visible: false
+
+- type: subject
+  slug: computing-science
+  name: Computing Science
+  colour: '#00BCD4'
+  image: computing_science.svg
+  visible: false
+
+- type: subject
+  slug: design-and-manufacture
+  name: Design & Manfucture
+  colour: '#E91E63'
+  image: design_and_manufacture.svg
+  visible: false
+  

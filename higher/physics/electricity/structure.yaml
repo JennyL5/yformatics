@@ -1,0 +1,24 @@
+- type: topic
+  slug: alternating-current
+  name: Alternating Current
+  image: alternating-current.jpg
+  
+- type: topic
+  slug: current-power-and-resistance
+  name: Current, Power & Resistance
+  image: current-power-and-resistance.jpg
+
+- type: topic
+  slug: internal-resistance
+  name: Internal Resistance
+  image: internal-resistance.jpg
+
+- type: topic
+  slug: capacitors
+  name: Capacitors
+  image: capacitors.jpg
+
+- type: topic
+  slug: semiconductors
+  name: Semiconductors
+  image: semiconductors.jpg

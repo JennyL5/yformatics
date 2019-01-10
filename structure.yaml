@@ -1,0 +1,14 @@
+- type: level
+  slug: national-5
+  name: National 5
+  visible: true
+
+- type: level
+  slug: higher
+  name: Higher
+  visible: true
+  
+- type: level
+  slug: advanced-higher
+  name: Advanced Higher
+  visible: false
