@@ -1,0 +1,6 @@
+- type: subject
+  slug: physics
+  name: Physics
+  colour: '#03A9F4'
+  image: physics.svg
+  visible: true
