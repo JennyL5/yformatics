@@ -10,7 +10,7 @@
   name: Chemistry
   colour: '#F44336'
   image: chemistry.svg
-  visible: true
+  visible: false
 
 - type: subject
   slug: biology
@@ -46,4 +46,3 @@
   colour: '#E91E63'
   image: design_and_manufacture.svg
   visible: false
-  
