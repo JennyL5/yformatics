@@ -1,0 +1,29 @@
+- type: topic
+  slug: esters-fats-and-oils
+  name: Esters, Fats & Oils
+  image: esters-fats-and-oils.jpg
+  
+- type: topic
+  slug: proteins
+  name: Proteins
+  image: proteins.jpg
+
+- type: topic
+  slug: cooking
+  name: Cooking
+  image: cooking.jpg
+
+- type: topic
+  slug: soaps-and-emulsions
+  name: Soaps & Emulsions
+  image: soaps-and-emulsions.jpg
+
+- type: topic
+  slug: fragrances
+  name: Fragrances
+  image: fragrances.jpg
+
+- type: topic
+  slug: skin-care
+  name: Skin Care
+  image: skin-care.jpg

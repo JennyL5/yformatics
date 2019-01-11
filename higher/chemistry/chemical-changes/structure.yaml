@@ -1,0 +1,24 @@
+- type: topic
+  slug: controlling-rate-of-reaction
+  name: Controlling Rate of Reaction
+  image: controlling-rate-of-reaction.jpg
+  
+- type: topic
+  slug: periodicity
+  name: Periodicity
+  image: periodicity.jpg
+
+- type: topic
+  slug: structure-and-bonding
+  name: Structure & Bonding
+  image: structure-and-bonding.jpg
+
+- type: topic
+  slug: intramolecular-forces
+  name: Intramolecular Forces
+  image: intramolecular-forces.jpg
+
+- type: topic
+  slug: intermolecular-forces
+  name: Intermolecular Forces
+  image: intermolecular-forces.jpg
