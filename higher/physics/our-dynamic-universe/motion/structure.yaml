@@ -1,0 +1,4 @@
+- type: note
+  slug: notes
+  name: notes
+  source: notes.md
