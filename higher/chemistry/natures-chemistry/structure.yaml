@@ -2,28 +2,34 @@
   slug: esters-fats-and-oils
   name: Esters, Fats & Oils
   image: esters-fats-and-oils.jpg
+  visible: true
   
 - type: topic
   slug: proteins
   name: Proteins
   image: proteins.jpg
+  visible: true
 
 - type: topic
   slug: cooking
   name: Cooking
   image: cooking.jpg
+  visible: true
 
 - type: topic
   slug: soaps-and-emulsions
   name: Soaps & Emulsions
   image: soaps-and-emulsions.jpg
+  visible: true
 
 - type: topic
   slug: fragrances
   name: Fragrances
   image: fragrances.jpg
+  visible: true
 
 - type: topic
   slug: skin-care
   name: Skin Care
   image: skin-care.jpg
+  visible: true

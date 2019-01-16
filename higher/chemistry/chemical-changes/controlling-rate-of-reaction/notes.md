@@ -17,9 +17,11 @@ There are four main factors that directly change the rate of a reaction:
   Adding a catalyst to a reaction mixture can affect the rate of reaction.
 
 ## Reaction Graphs
-The rate of a reaction can be plotted in a graph. You need to be able to recognise which reaction curve is represents the fastest or slowest reaction.
+The rate of a reaction can be plotted in a graph. You need to be able to recognise which reaction curve represents the fastest or slowest reaction.
 
 <!--Insert example reaction rate graph-->
+
+Above is the graphs of three reactions that each produce the same volume of product in total. However, as we can see by the gradient of each line, the red one will finish first, followed by the bule and then finally the green.
 
 ## Collision Theory
 All reactants are made up of atoms, ions and molecules. Collision Theory states that these small particles must collide in order to react with each other. This can be extrapolated to explain each of the factors affecting the rate of reaction.
@@ -54,4 +56,4 @@ These graphs can also be used to display the enthalpy change of the reaction.
 <!--Insert Activation Complex graph with Eh-->
 
 ## Catalysts
-A catalyst is a substance that can alter the rate of a reaction but is not used up itself. One practicle example of a catalyst in the real world is a 'catalytic convertor' which is used to reduce harmful gases leaving a internal combustion engine car exhaust.
+A catalyst is a substance that can alter the rate of a reaction but is not used up itself. One practical example of a catalyst in the real world is a 'catalytic convertor' which is used to reduce harmful gases leaving a internal combustion engine car exhaust.
