@@ -1,0 +1,29 @@
+- type: topic
+  slug: wave-behaviour
+  name: Wave Behaviour
+  image: wave-behaviour.jpg
+  visible: true
+  
+- type: topic
+  slug: electromagnetic-spectrum
+  name: Electromagnetic Spectrum
+  image: electromagnetic-spectrum.jpg
+  visible: true
+
+- type: topic
+  slug: refraction
+  name: Refraction
+  image: refraction.jpg
+  visible: true
+
+- type: topic
+  slug: nuclear-radiation
+  name: Nuclear Radiation
+  image: nuclear-radiation.jpg
+  visible: true
+
+- type: topic
+  slug: scientific-notation
+  name: Scientific Notation
+  image: scientific-notation.jpg
+  visible: true

@@ -1,0 +1,14 @@
+- type: unit
+  slug: dynamics-and-space
+  name: Dynamics & Space
+  visible: true
+
+- type: unit
+  slug: waves-and-radiation
+  name: Waves & Radiation
+  visible: true
+
+- type: unit
+  slug: electricity-and-energy
+  name: Electricity & Energy
+  visible: true
