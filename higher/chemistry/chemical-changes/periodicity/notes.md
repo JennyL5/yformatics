@@ -12,7 +12,7 @@ So far in our models of the atom, we have often thought of them as spheres. Howe
 
 This value is going to be different for every element but there is an overall trend in the periodic table which can allow you to compare if one is going to be larger or smaller than another. We relate these trends in terms of going across a period and down a group. Covalent radius decreases going across a period and increases going down a group.
 
-<!--Insert perodic table with trends-->
+![Periodic table trends](covalent_radius_trends.svg)
 
 These trends occur because looking across a period, the number of protons in the nucleus increase. This causes the forces that hold the electrons in place to increase which in turn pulls the electrons in closer, reducing the covalent radius. Looking down a group, each element has progressively more electron shells which cause a 'shielding' effect that means the force from the protons is weaker on the further out electrons, increasing the covalent radius. 
 
@@ -23,7 +23,7 @@ As with when you learned about ionic bonding, an ion is an element that has eith
 
 Ionisation energy values vary widely between elements but there is another overall trend in the periodic table which can allow you to compare if one is going to be larger or smaller than another. It increases going across a period and decreases going down a group.
 
-<!--Insert perodic table with trends-->
+![Periodic table trends](ionisation_energy_trends.svg)
 
 These trends exist for similar reasons as given for covalent radius. Looking across a period, the number of protons in the nucleus increase causing the forces that hold the electrons in place to increase, increasing the energy it takes to remove an electron. Looking down a group, each element has progressively more electron shells which cause a 'shielding' effect that means the force from the protons is weaker on the further out electrons, decreasing the ionisation energy. Exact ionisation energy values for each element can be found on page 11 of your data book.
 
@@ -32,6 +32,6 @@ When two atoms form a bond, the nucleus of each atom enacts a force on the elect
 
 Electronegativity values vary widely between elements but there is a third overall trend in the periodic table which can allow you to compare if one is going to be larger or smaller than another. It increases going across a period and decreases going down a group.
 
-<!--Insert perodic table with trends-->
+![Periodic table trends](ionisation_energy_trends.svg)
 
 These patterns are consistent with ionisation energy. Looking across a period, the number of protons in the nucleus increase causing the attractive forces on nearby electrons to increase, increasing the electronegativity. Looking down a group, each element has progressively more electron shells which cause a 'shielding' effect that means the force from the protons in the nucleus is weaker on the further out electrons, decreasing the electronegativity. Exact electronegativity values for each element can be found on page 11 of your data book.
