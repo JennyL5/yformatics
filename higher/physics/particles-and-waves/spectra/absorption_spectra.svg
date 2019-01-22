@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1458 283">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fafafa;
+      }
+
+      .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #707070;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #707070;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff5722"/>
+      <stop offset="0.099" stop-color="#f44336"/>
+      <stop offset="0.222" stop-color="#ff9800"/>
+      <stop offset="0.325" stop-color="#ffeb3b"/>
+      <stop offset="0.404" stop-color="#8bc34a"/>
+      <stop offset="0.493" stop-color="#4caf50"/>
+      <stop offset="0.591" stop-color="#00bcd4"/>
+      <stop offset="0.69" stop-color="#2196f3"/>
+      <stop offset="0.788" stop-color="#3f51b5"/>
+      <stop offset="0.882" stop-color="#673ab7"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(-217 -68)">
+    <rect id="Rectangle_62" data-name="Rectangle 62" class="cls-1" width="1458" height="283" transform="translate(217 68)"/>
+    <g id="Rectangle_63" data-name="Rectangle 63" class="cls-2" transform="translate(367 135)">
+      <rect class="cls-5" width="1148" height="151"/>
+      <rect class="cls-6" x="2.5" y="2.5" width="1143" height="146"/>
+    </g>
+    <rect id="Rectangle_64" data-name="Rectangle 64" class="cls-3" width="1126" height="131" transform="translate(378 145)"/>
+    <rect id="Rectangle_68" data-name="Rectangle 68" class="cls-4" width="52" height="131" transform="translate(378 145)"/>
+    <rect id="Rectangle_69" data-name="Rectangle 69" class="cls-4" width="86" height="131" transform="translate(459 145)"/>
+    <rect id="Rectangle_70" data-name="Rectangle 70" class="cls-4" width="19" height="131" transform="translate(435 145)"/>
+    <rect id="Rectangle_71" data-name="Rectangle 71" class="cls-4" width="136" height="131" transform="translate(550 145)"/>
+    <rect id="Rectangle_72" data-name="Rectangle 72" class="cls-4" width="19" height="131" transform="translate(691 145)"/>
+    <rect id="Rectangle_73" data-name="Rectangle 73" class="cls-4" width="86" height="131" transform="translate(715 145)"/>
+    <rect id="Rectangle_74" data-name="Rectangle 74" class="cls-4" width="119" height="131" transform="translate(806 145)"/>
+    <rect id="Rectangle_75" data-name="Rectangle 75" class="cls-4" width="11" height="131" transform="translate(930 145)"/>
+    <rect id="Rectangle_76" data-name="Rectangle 76" class="cls-4" width="160" height="131" transform="translate(946 145)"/>
+    <rect id="Rectangle_77" data-name="Rectangle 77" class="cls-4" width="38" height="131" transform="translate(1111 145)"/>
+    <rect id="Rectangle_78" data-name="Rectangle 78" class="cls-4" width="200" height="131" transform="translate(1154 145)"/>
+    <rect id="Rectangle_79" data-name="Rectangle 79" class="cls-4" width="145" height="131" transform="translate(1359 145)"/>
+  </g>
+</svg>

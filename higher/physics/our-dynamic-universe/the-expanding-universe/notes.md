@@ -53,7 +53,7 @@ Thermal emission peaks allow the temperature of stellar objects to be determined
 - Each stellar object has a peak wavelength that depends on its temperature.
 - As the temperature of the star increases, there is more energy at each wavelength and the peak wavelength shifts to shorter wavelengths.
 
-<!--Insert diagram graph thing for thermal emission-->
+![Stellar temperatures](stellar_temperatures.svg)
 
 ## The Big Bang
 Hubble’s Law was the first suggestion that a cosmic starting point could be identified. If the universe is currently expanding then at some earlier time it must have been compressed into a single fixed point where all the matter and energy in the universe was compressed into an infinitesimally small volume.
@@ -65,4 +65,3 @@ On top of this, there is other evidence for the Big Bang Theory:
 
 - Temperature of the universe <br>
   By analysing the thermal emission peak of the CMBR, the temperature of the universe can be measured. This value fits very well with the average temperature predicted by the Big Bang Theory of 2.73K.
-

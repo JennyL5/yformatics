@@ -3,7 +3,7 @@ An electric field is a region in which a charged particle will experience a forc
  
 To represent an electric field in diagrams, we draw electric field lines. The arrows on the lines show the motion of a positive charge.
  
-<!--*Insert diagrams here*-->
+![Electric field diagrams](electric_fields.svg)
  
 Work is done when a charge moves through an electric field. To move an electron towards a negatively charged plate, energy is needed. The work done is gained by the electron as electrical potential energy.
  

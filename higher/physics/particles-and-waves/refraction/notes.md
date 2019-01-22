@@ -1,7 +1,7 @@
 ## Refractive index
 When light travels from one medium to another, it will have a change in velocity. For example, if a ray of light is shone from air into a semi-circular block of transparent material which is denser than air, at any angle other than 90˚, the ray changes direction on entering the material.
 
-<!--Insert diagram?-->
+![Semi-circular block](refraction_into_block.svg)
 
 We can measure the angle at which the light is travelling relative to the material by drawing a dotted line at 90˚ to the edge called the normal. By comparing the ratio of the angles in various materials, scientists noticed there was a correlation of the sine of each angle shown in the following equation:
 
@@ -38,7 +38,7 @@ This version can also be rearranged into its general forms for both velocicty an
 ## Frequency
 The refractive index of a material depends on the frequency of the light hitting it. This can be seen when white light passes through a glass prism. A visible spectrum is produced because each of the component colours of white light has a different frequency, so is each refracted at a different angle.
 
-<!--Insert diagram?-->
+![Refraction through prism](glass_prism.svg)
 
 ## Total internal refraction
 Total internal reflection is a phenomenon that can occur when light travelling in a dense medium meets a boundary with a less dense medium.

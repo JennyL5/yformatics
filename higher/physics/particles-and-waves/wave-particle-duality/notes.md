@@ -29,6 +29,6 @@ Photoelectric emission is described by Einstein's photoelectric equation:
 
 Where hf is the energy of an incident photon, hf<sub>0</sub> is the work function of the metal and E<sub>k</sub> is the kinetic energy given to an emitted electron. This is often rearranged to find the kinetic energy, which can also tell us if an electron is emitted at all:
 
-Where hf is the energy of an incident photon, hf0 is the work function of the metal and Ek is the kinetic energy given to an emitted electron. This is often rearranged to find the kinetic energy, which can also tell us if an electron is emitted at all:
+Where hf is the energy of an incident photon, hf<sub>0</sub> is the work function of the metal and Ek is the kinetic energy given to an emitted electron. This is often rearranged to find the kinetic energy, which can also tell us if an electron is emitted at all:
 
 <p>Ek = hf - hf_0</p>

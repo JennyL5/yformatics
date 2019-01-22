@@ -41,16 +41,16 @@ Line spectra, or ‘emission line spectra’, are formed by an electron in an ex
 
 The emitted photon often has a frequency within the visible spectrum, so produces a coloured emission line in the atom's emission line spectrum. However, photons with frequencies outside the visible spectrum are also possible. Each element has a different arrangement of energy levels and hence will emit photons of different frequencies to produce unique spectra.
 
-<!--Insert Line spectra here-->
+![Line spectra](line_spectra.svg)
 
 ## Continuous spectra
 A tungsten filament lamp emits white light. When the white light is passed through a spectroscope, a continuous spectrum is obtained. This contains all colours of the visible spectrum with no gaps.
 
-<!--Insert Continuous spectra here-->
+![Continuous spectra](continuous_spectra.svg)
 
 ## Absorption spectra
 When white light is passed through atoms of an element such as sodium in a gaseous state, the gaseous atoms absorb photons from the white light of specific frequencies. This produces a spectrum that contains all of the visible spectrum like the continuous spectra but with gaps where certain colours of visible light have been absorbed and not gotten through.
 
-<!--Insert Absorption spectra here-->
+![Absorption spectra](absorption_spectra.svg)
 
 Similar to line spectra, atoms can only absorb photons if the energy carried by the photon is greater than or equal to the energy required to move an electron to a higher energy level. This is also unique to each element and different substances will produce different spectra. The lines missing in an absorption spectrum for a particular element will be the same as the lines that appear when testing the same element using line spectra.

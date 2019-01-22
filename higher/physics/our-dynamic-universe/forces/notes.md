@@ -34,7 +34,7 @@ To make problems involving forces acting on masses more complicated, we start to
 
 In the example of a train, the locomotive at the front will be applying a force on the other carriages behind it. This will cause tension at each connection but the different tension values will each be different. If a train has three passenger carriages, the locomotive must supply enough force to pull all three of the carriages. However the first carriage will only need to supply the force to pull two, and the one behind that only enough to pull one.
 
-<!--Insert diagram?-->
+![Connected train diagram](connected_train.svg)
 
 Remember, if the question asks about the whole system then you must use the total mass of all the parts involved as your mass value in the force equation.
 
@@ -43,7 +43,7 @@ Any single vector can be replaced by two other vectors at right-angles to each o
 
 The magnitude of each of the component vectors can be calculated by using trigonometry.
 
-<!--Insert diagram-->
+![Component forces diagram](component_forces.svg)
 
 <p>F_V = F sin θ</p>
 
@@ -54,6 +54,7 @@ When an object is placed on a slope, the weight of the object acts directly down
 motion of the object up or down the slope.
 
 <!--Insert diagram-->
+![Slope diagram](block_slope.svg)
 
 ## Conservation of Energy
 The Law of Conservation of Energy states:

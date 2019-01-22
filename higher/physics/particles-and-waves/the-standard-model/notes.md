@@ -5,9 +5,7 @@ In physics, we try to measure everything from the largest galaxies all the way d
 In particle accelerators, such as the Large Hadron Collider in Switzerland, very small particles such as protons and electrons can be passed through electric and magnetic fields which causes them to travel at very high speeds. When these particles collide, it releases a huge amount of energy, some of which may be converted into mass which produces showers of nuclear particles. Massive detectors that pass these tiny particles through a magnetic field can measure their deflection to obtain their mass and charge. It is experiments like these that have given insights that give rise to the standard model of fundamental particles and their interactions that we use today.
 
 ## The model
-<div style="width:100%;text-align: center;">
-<img src="/assets/images/c4ca4238a0b923820dcc509a6f75849b.png" style="width:100%;margin-bottom:24px"/>
-</div>
+![The standard model](standard_model.png)
 
 ## Fundamental particles
 Particles that cannot be divided into smaller ones are referred to as Fundamental particles. In the standard model of particle physics, there are 12 fundamental particles labelled as fermions. Out of these 12, there are 6 types of quarks and 6 types of leptons. These are split into 3 generations that increase in mass, and hence energy, from the 1st generation to the 3rd.

@@ -44,7 +44,7 @@ It is also equivelant to the change in momentum:
 ## Force-time Graphs
 How the force changes through an impact can be displayed by means of a force-time graph.
 
-<!--Insert force-time graph here-->
+![Force-time graph](force-time_graph.svg)
 
 The area under the graph represents:
 - The impulse of the force exerted by the wall on the ball during its time of contact.
