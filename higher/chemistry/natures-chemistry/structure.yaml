@@ -3,7 +3,7 @@
   name: Esters, Fats & Oils
   image: esters-fats-and-oils.jpg
   visible: true
-  
+
 - type: topic
   slug: proteins
   name: Proteins
@@ -19,7 +19,7 @@
 - type: topic
   slug: soaps-and-emulsions
   name: Soaps & Emulsions
-  image: soaps-and-emulsions.jpg
+  image: soaps-detergents-and-emulsions.jpg
   visible: true
 
 - type: topic
