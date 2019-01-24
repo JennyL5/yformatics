@@ -36,11 +36,11 @@ Baryons and Mesons can only have whole integer charges, such as 1, 0, -1.
 ## Beta decay
 Beta decay can occur in unstable nuclei where the nucleus emits an electron, leaving the atom with the same mass number but an increase of 1 in the atomic number. For example:
 
-$${}^{234}_{91}Pa \rightarrow {}^{234}_{92}U + {}^{0}_{-1}e$$
+$${}^{234}\_{91}Pa \rightarrow {}^{234}\_{92}U + {}^{0}\_{-1}e$$
  
 In general terms, we can think of this as a neutron becoming a proton:
 
-$${}^{1}_{0}n \rightarrow {}^{1}_{1}p + {}^{0}_{-1}e$$
+$${}^{1}\_{0}n \rightarrow {}^{1}\_{1}p + {}^{0}\_{-1}e$$
  
 While the mass number and the charge of the atom is conserved, the actual mass of the proton is less than the mass of the neutron. This decrease in mass results in a release of energy, available as kinetic energy to the emitted electron. However, particle physicists discovered that the kinetic energy of the electron was not always equal to this value. In fact, the electron could have almost any value for its kinetic energy.
  
@@ -48,4 +48,4 @@ While the mass number and the charge of the atom is conserved, the actual mass o
  
 The particle was determined to be an electron anti neutrino, the antimatter equivalent to the electron neutrino. This allows us to complete the equation:
 
-$${}^{234}_{91}Pa \rightarrow {}^{234}_{92}U + {}^{0}_{-1}e + \bar{v}_{e}$$
+$${}^{234}\_{91}Pa \rightarrow {}^{234}\_{92}U + {}^{0}\_{-1}e + \bar{v}\_{e}$$
