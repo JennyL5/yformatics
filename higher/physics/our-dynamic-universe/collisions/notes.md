@@ -1,7 +1,7 @@
 ## Momentum
 The momentum of an object is the product of its mass and velocity. It is a vector quantity so direction must be considered in momentum calculations. It is given the symbol 'p' and its units are kg ms<sup>-1</sup>.
 
-<p>p = mv</p>
+$$p = mv$$
 
 For collisions and explosions along a straight line, there is a law of Conservation of Momentum:
 
@@ -35,11 +35,11 @@ The motion of objects after an explosion can also be explained by Newton's third
 ## Impulse
 When a force acts on an object, the force is said to give the object an impulse. The impulse is equal to the average force multiplied by the time over which the force acts. It is a vector quantity so direction must be considered. Its units are Ns or kgms<sup>-1</sup>.
 
-<p>Impulse = Ft</p>
+$$Impulse = Ft$$
 
 It is also equivelant to the change in momentum:
 
-<p>Ft = mv - mu</p>
+$$Ft = mv - mu$$
 
 ## Force-time Graphs
 How the force changes through an impact can be displayed by means of a force-time graph.

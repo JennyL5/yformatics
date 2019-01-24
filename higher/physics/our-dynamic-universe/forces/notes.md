@@ -9,11 +9,11 @@ When studying dynamics, we look at balanced and unbalanced forces. These are des
 
 This second law is connected to the equation which defines unbalanced forces acting on objects:
 
-<p>F = ma</p>
+$$F = ma$$
 
 You should also be familiar with the equation to calculate the force of the weight of an object:
 
-<p>W = mg</p>
+$$W = mg$$
 
 Force is measured in Newtons (N), where one Newton is defined as the value of the unbalanced force which will accelerate a mass of 1kg at 1 ms<sup>-2</sup>.
 
@@ -25,7 +25,7 @@ In the scenario of a skydiver jumping out of a plane, if air resistance was negl
 ## Tension
 If a force is being applied to pull an object that is on the end of a rope, then there is a tension in the rope which is equal to the force acting on the object in that direction. This can be used to calculate the unbalanced force if the force of friction in the opposite direction is also known:
 
-<p>F = Tension - Friction</p>
+$$F = Tension - Friction$$
 
 Sometimes the force of friction is negligible which means that the acceleration of an object can be calculated using the tension as the unbalanced force in Newton's second law.
 
@@ -45,9 +45,9 @@ The magnitude of each of the component vectors can be calculated by using trigon
 
 ![Component forces diagram](component_forces.svg)
 
-<p>F_V = F sin θ</p>
+$$F_V = F sin θ$$
 
-<p>F_H = F cos θ</p>
+$$F_H = F cos θ$$
 
 ## Slopes
 When an object is placed on a slope, the weight of the object acts directly downwards towards the centre of the earth. The weight of the object can be resolved into right-angle components acting parallel to the slope and perpendicular to the slope. The component of the weight parallel to the slope is used in problems involving the
@@ -63,10 +63,10 @@ The Law of Conservation of Energy states:
 
 This means all energy must be accounted for when it changes states. Energy can take many forms but when talking about forces we tend to look specifically at kinetic and potential energy. These can be calculated using the following equations:
 
-<p>E_k = \dfrac{1}{2} mv^2</p>
+$$E_k = \dfrac{1}{2} mv^2$$
 
-<p>E_p = mgh</p>
+$$E_p = mgh$$
 
 Another important concept is work, the energy expended to apply a force to an object to make it move a distance:
 
-<p>E_w = Fd</p>
+$$E_w = Fd$$

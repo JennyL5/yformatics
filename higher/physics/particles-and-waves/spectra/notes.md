@@ -1,17 +1,17 @@
 ## Irradiance
 When radiation is incident on a surface, we can measure the irradiance. This is the power of the radiation per unit area of the surface, as seen in the following equation:
 
-<p>I = \dfrac{P}{A}</p>
+$$I = \dfrac{P}{A}$$
 
 The unit for irradiance is Wm<sup>2</sup>.
 
 A point source of light is one which emits light evenly in all directions. The light spreads out as a sphere, with the light source at its centre. There is a relationship between irradiance and the distance from the point source of light. This is called the inverse square law and is given by the equation:
 
-<p>I = \dfrac{k}{d^2}</p>
+$$I = \dfrac{k}{d^2}$$
 
 To solve some problems which compare irradiance of the same source from different distances, it can be easier to rearrange this equation into:
 
-<p>I_1d_1^2 = I_2d_2^2</p>
+$$I_1d_1^2 = I_2d_2^2$$
 
 ## Laser beams
 Because a laser beam is parallel, it does not behave like a point source and as such its irradiance does not decrease with distance according to the inverse square law. It therefore manages to maintain a very high irradiance at a single point, even at long distances. This is what gives lasers their power to be used in applications such as metal cutting and why they can be so dangerous if shone into someone’s eye.
@@ -37,7 +37,7 @@ There are 3 main types of spectra:
 ## Line spectra
 Line spectra, or ‘emission line spectra’, are formed by an electron in an excited energy level of an atom making a transition to a lower energy level in the same atom. This process is spontaneous and can happen at any time. When an electron makes such a transition, one packet of electromagnetic energy is emitted from the atom in the form of a photon. The energy of this photon is exactly equal to the difference in energy between the two energy levels involved. This is shown in the equation:
 
-<p>hf = E_2 - E_1</p>
+$$hf = E_2 - E_1$$
 
 The emitted photon often has a frequency within the visible spectrum, so produces a coloured emission line in the atom's emission line spectrum. However, photons with frequencies outside the visible spectrum are also possible. Each element has a different arrangement of energy levels and hence will emit photons of different frequencies to produce unique spectra.
 

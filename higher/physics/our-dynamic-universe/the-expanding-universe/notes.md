@@ -1,7 +1,7 @@
 ## The Doppler effect
 The Doppler Effect is the change in frequency observed when a source of sound waves is moving relative to an observer. This is often most easy to explain when thinking about sound waves. In general, more sound wavefronts are received per second when the source of sound waves is moving towards the observer, so the frequency heard by the observer is increased. Similarly, fewer sound wavefronts are received per second when the source of sound waves is moving away from the observer and so the frequency heard by the observer is decreased. The actual frequency heard by an observer is calculated by:
 
-<p>f_0 = f_s \Big(\dfrac{v}{v \pm v_s}\Big)</p>
+$$f_0 = f_s \Big(\dfrac{v}{v \pm v_s}\Big)$$
 
 Where:
 - f<sub>0</sub> = the frequency heard by the observer (Hz)
@@ -16,14 +16,14 @@ Information about a star’s temperature, composition and motion can be found by
 
 The physical quantity called red shift ‘z’ is given by the equation:
 
-<p>z = \dfrac{\lambda_{observed} - \lambda_{rest}}{\lambda_{rest}}</p>
+$$z = \dfrac{\lambda_{observed} - \lambda_{rest}}{\lambda_{rest}}$$
 
 ## Hubble's Law
 In the 1920s, the astronomer Edwin Hubble noticed that the light from some distant galaxies was redshifted. For each element, the spectral lines were all shifted by the same amount for each galaxy. Over a few years, he examined the redshift of galaxies at varying distances from Earth. He observed that the further away a galaxy was, the faster it appeared to be travelling. The speed of objects travelling away from Earth is known as ‘recession velocity’.
 
 This relationship between distance and recession velocity of a galaxy is known as Hubble’s Law:
 
-<p>v = H_0d</p>
+$$v = H_0d$$
 
 Where:
 - v = recession velocity of star (ms<sup>-1</sup>)

@@ -1,7 +1,7 @@
 ## Revision
 In a complete electric circuit containing a cell and a bulb, the free electrons in the conductor will experience a force. This causes them to drift away from the negative terminal towards the positive terminal of the cell. We know the electrons are charged and it is this flow of charge we describe as an electric current measured in amperes. Electric current is defined as the rate of flow of charge, leading to the following equation:
 
-<p>Q = It</p>
+$$Q = It$$
 
 Where:
 - Q = Charge (C)
@@ -22,9 +22,9 @@ The differences between AC and DC don't just stop at the applications though. Th
 
 The relationship between the root mean square voltage and the peak AC voltage and the root mean square current and the peak AC current are very similar and given by:
 
-<p>V_{peak} = \sqrt{2} V_{rms}</p>
+$$V_{peak} = \sqrt{2} V_{rms}$$
 
-<p>I_{peak} = \sqrt{2} I_{rms}</p>
+$$I_{peak} = \sqrt{2} I_{rms}$$
 
 In the UK, the mains voltage is quoted as 230V. Although our mains supplies AC current, this is the V<sub>rms</sub> value. The mains voltage can actually rise to a peak of approximately 325V.
 
@@ -37,4 +37,4 @@ Two of the main controls on a cathode ray oscilloscope are the Y-Gain and the ti
 
 This can also allow you to calculate the peak AC voltage:
 
-<p>V_{peak} = peak \enspace height \times Y gain</p>
+$$V_{peak} = peak \enspace height \times Y gain$$

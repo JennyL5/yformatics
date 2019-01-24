@@ -9,7 +9,7 @@ As we know, the Earth follows a curved path around the Sun. This means that, acc
 ## Gravitational field strength
 Gravitational fields are areas where masses experience a force. We call this gravitational force weight, with the symbol 'W'. The weight can be calculated by the product of the mass of the object with the gravitational field strength:
 
-<p>W = mg</p>
+$$W = mg$$
 
 Gravitational field strength is a vector quantity with the same direction as the weight and has the unit Nkg<sup>-1</sup>. The value for Earth is -9.8Nkg<sup>-1</sup> and other location values can be found in a data book or the front inside page of an exam paper.
 
@@ -18,7 +18,7 @@ If a mass is allowed to fall freely, ignoring air resistance, the unbalanced for
 ## Law of Gravitation
 Newton's law of universal gravitation proposed that every body with mass will exert a force on every other body with mass. The theory states that the force of gravitational attraction is dependant on the masses of both objects and is inversely proportional to the square of the distance that separates them.
 
-<p>F = \dfrac{Gm_1m_2}{r^2}</p>
+$$F = \dfrac{Gm_1m_2}{r^2}$$
 
 Where:
 - F = the force (N)

@@ -14,20 +14,20 @@ Potential difference is defined as the energy required to move one coulomb of ch
  
 This leads us to the equation for the total work done in moving charges in an electric field:
 
-<p>E_w = QV</p>
+$$E_w = QV$$
  
 One volt is the potential difference between two points when the energy required to move one coulomb of charge between them is one joule. One volt is therefore equivalent to one joule per coulomb.
 
-<!--<p>V = JC^{-1}</p>-->
+<!--$$V = JC^{-1}$$-->
  
 ## Speed of charged particles
 As we’ve seen, when a charged particle is free to move in the electric field between two oppositely charged metal plates, the work done by the electric field on the particle is converted to kinetic energy of the electron as it accelerates through the field. From this we can deduce:
 
-<p>E_w = E_k</p>
+$$E_w = E_k$$
 
-<p>QV = \dfrac{1}{2} mv^2</p>
+$$QV = \dfrac{1}{2} mv^2$$
 
-<p>v = \sqrt{ \dfrac{2QV}{m} }</p>
+$$v = \sqrt{ \dfrac{2QV}{m} }$$
  
 This allows the speed of the charged particle to after it has passed through the electric field to be calculated. Remember, if the charged particle enters the field with an initial speed then its initial kinetic energy must be added to the kinetic energy gained in the field before attempting to calculate its final velocity.
 

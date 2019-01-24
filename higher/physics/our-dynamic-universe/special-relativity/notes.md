@@ -19,7 +19,7 @@ This involves a ‘light clock’ which is simply two mirrors with a light beam 
 
 This apparent greater distance is the vector combination of the mirror displacement and the mirror separation, which gives rise to the equation:
 
-<p>t' = \dfrac{t}{\sqrt{1 - \Big(\dfrac{v}{c}\Big)^2}}</p>
+$$t' = \dfrac{t}{\sqrt{1 - \Big(\dfrac{v}{c}\Big)^2}}$$
 
 Where:
 - t' = time observed by a stationary observer (s)
@@ -30,7 +30,7 @@ Where:
 ## Length Contraction
 Another implication of Einstein’s theory is the observed decrease in the length of an object which is moving at high speeds. This is called length contraction and is only noticeable at a substantial fraction of the speed of light, and only in the direction parallel to the direction in which the observed body is travelling.
 
-<p>l' = l\sqrt{1 - \Big(\dfrac{v}{c}\Big)^2}</p>
+$$l' = l\sqrt{1 - \Big(\dfrac{v}{c}\Big)^2}$$
 
 Where:
 - l' = observed length by a stationary observer
@@ -43,8 +43,8 @@ This is the scaling factor which shows the increase in time or decrease in lengt
 
 It can also be expressed as:
 
-<p>t' = \gamma t</p>
+$$t' = \gamma t$$
 
 where:
 
-<p>\gamma = \dfrac{1}{\sqrt{1 - \Big(\dfrac{v}{c}\Big)^2}}</p>
+$$\gamma = \dfrac{1}{\sqrt{1 - \Big(\dfrac{v}{c}\Big)^2}}$$
