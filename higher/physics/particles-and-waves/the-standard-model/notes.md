@@ -38,7 +38,7 @@ Beta decay can occur in unstable nuclei where the nucleus emits an electron, lea
 
 $${}^{234}_{91}Pa \rightarrow {}^{234}_{92}U + {}^{0}_{-1}e$$
 
-$$\prescript{14}{2}{\mathbf{C}}$$
+$$\ce{^{227}_{90}Th+}$$
  
 In general terms, we can think of this as a neutron becoming a proton:
 
