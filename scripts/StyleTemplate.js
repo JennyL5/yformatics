@@ -36,7 +36,8 @@ ${data
       left: ${(100 - data.length * 20) / 2}%;
       transition: transform 300ms ease-in-out;
       will-change: transform;
-    }`;
+    }
+    `;
 
 module.exports = data =>
   `<style>${

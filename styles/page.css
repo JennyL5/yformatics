@@ -2,16 +2,6 @@
   overflow-x: hidden;
 }
 
-.tabs-underlay {
-  background: #2196f3;
-  height: 56px;
-  width: 100%;
-  position: absolute;
-  left: 0px;
-  z-index: 0;
-  text-align: center;
-  border-radius: 0 0 40px 40px;
-}
 .page-tabs {
   display: inline-block;
   top: 0px;
@@ -60,16 +50,6 @@
   overflow-x: hidden;
 }
 
-.tabs-underlay {
-  background: #2196f3;
-  height: 56px;
-  width: 100%;
-  position: absolute;
-  left: 0px;
-  z-index: 0;
-  text-align: center;
-  border-radius: 0 0 40px 40px;
-}
 .page-tabs {
   display: inline-block;
   top: 0px;
@@ -152,6 +132,16 @@
   cursor: pointer;
   background: #2196f3;
   color: #fff;
+}
+.tabs-underlay {
+  background: #2196f3;
+  height: 56px;
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  z-index: 0;
+  text-align: center;
+  border-radius: 0 0 40px 40px;
 }
 
 .index-link:hover {
