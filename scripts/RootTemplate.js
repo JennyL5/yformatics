@@ -15,18 +15,28 @@ let render = data =>
       E.Body(
         E.Div({ class: [`page-container`, `root`] })(
           E.Div({ class: [`page-tabs`] })(
+            E.Join(
+              data.map((child, n) =>
+                E.Input({
+                  name: `tab`,
+                  checked: "true",
+                  type: `radio`,
+                  id: `tab-${n}`
+                })()
+              )
+            ),
             E.Div({ class: [`tabs-underlay`] })(
               E.Join(
                 data.map((child, n) =>
-                  E.Label({ for: `tab-${n}`, class: [`page-tab`] })(child.name)
+                  E.Label({
+                    for: `tab-${n}`,
+                    id: `label-tab-${n}`,
+                    class: [`page-tab`]
+                  })(child.name)
                 )
               )
             ),
-            E.Join(
-              data.map((child, n) =>
-                E.Input({ name: `tab`, type: `radio`, id: `tab-${n}` })()
-              )
-            ),
+
             E.Div({ class: ["indicator"] })(),
 
             E.Div({ class: [`page-content`] })(

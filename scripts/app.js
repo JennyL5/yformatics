@@ -44,6 +44,7 @@ document.addEventListener(
   },
   true
 );
+
 document.addEventListener(
   "click",
   e => {
