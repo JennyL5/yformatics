@@ -37,6 +37,8 @@ Baryons and Mesons can only have whole integer charges, such as 1, 0, -1.
 Beta decay can occur in unstable nuclei where the nucleus emits an electron, leaving the atom with the same mass number but an increase of 1 in the atomic number. For example:
 
 $${}^{234}_{91}Pa \rightarrow {}^{234}_{92}U + {}^{0}_{-1}e$$
+
+$$\prescript{14}{2}{\mathbf{C}}$$
  
 In general terms, we can think of this as a neutron becoming a proton:
 
