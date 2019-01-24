@@ -27,7 +27,7 @@ ${data
       }
       #tab-${n}:checked ~ .tabs-underlay #label-tab-${n} {
         opacity:1;
-        font-size:125%;
+        font-size:90%;
         width: auto;
         margin-left: 8px;
         margin-right: 8px;
@@ -61,6 +61,13 @@ ${data
     @media (max-width: 900px) {
       .indicator {
         display:none;
+      }
+      .tabs-underlay{
+        overflow-x:auto;
+      }
+      .page-content{
+        transition: none;
+
       }
     }
 
