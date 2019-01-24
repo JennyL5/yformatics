@@ -299,7 +299,7 @@ const root = `.`;
 // Read root yaml
 rimraf.sync("./build");
 fs.mkdirSync("./build");
-
+fs.copyFileSync("./styles/favicon.ico", "./build/favicon.ico");
 let fuse = new Fuse(searchable, options);
 let r = {
   data: read(""),
