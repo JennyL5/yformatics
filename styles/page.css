@@ -2,18 +2,6 @@
   overflow-x: hidden;
 }
 
-.page-tabs {
-  display: inline-block;
-  top: 0px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-  overflow: hidden;
-  padding-left: 40px;
-  padding-right: 40px;
-  width: calc(100% - 80px);
-  z-index: 1;
-}
-
 .page-container {
   overflow-x: hidden;
 }
@@ -24,9 +12,9 @@
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
   overflow: hidden;
-  padding-left: 40px;
-  padding-right: 40px;
-  width: calc(100% - 80px);
+  /* padding-left: 40px;
+  padding-right: 40px; */
+  width: calc(100%);
   z-index: 1;
 }
 .page-tabs input {
