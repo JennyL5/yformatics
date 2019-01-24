@@ -1,11 +1,11 @@
 window.inflight = {};
 window.addEventListener("popstate", e => {
   console.log(e);
-  if (!localStorage[window.location.pathname]) {
+  if (!sessionStorage[window.location.pathname]) {
     fetch(window.location.pathname)
       .then(r => r.text())
       .then(html => {
-        localStorage[window.location.pathname] = html;
+        sessionStorage[window.location.pathname] = html;
         handle(window.location.pathname);
       });
   } else {
@@ -17,12 +17,12 @@ document.addEventListener(
   e => {
     if (e.target.tagName == "A") {
       let href = e.target.attributes.href.nodeValue;
-      if (!window.inflight[href] && !localStorage[href]) {
+      if (!window.inflight[href] && !sessionStorage[href]) {
         window.inflight[href] = true;
         fetch(href)
           .then(r => r.text())
           .then(html => {
-            localStorage[href] = html;
+            sessionStorage[href] = html;
             window.inflight[href] = false;
           });
       }
@@ -31,12 +31,12 @@ document.addEventListener(
       e.target.parentElement.tagName == "A"
     ) {
       let href = e.target.parentElement.attributes.href.nodeValue;
-      if (!window.inflight[href] && !localStorage[href]) {
+      if (!window.inflight[href] && !sessionStorage[href]) {
         window.inflight[href] = true;
         fetch(href)
           .then(r => r.text())
           .then(html => {
-            localStorage[href] = html;
+            sessionStorage[href] = html;
             window.inflight[href] = false;
           });
       }
@@ -73,11 +73,11 @@ function goto(href) {
   history.pushState({}, "", href);
 }
 function handle(href) {
-  if (!localStorage[href]) {
+  if (!sessionStorage[href]) {
     setTimeout(() => handle(href), 200);
   } else {
     let elem = document.createElement("html");
-    elem.innerHTML = localStorage[href];
+    elem.innerHTML = sessionStorage[href];
     document.head.replaceChild(
       elem.getElementsByTagName("style")[0],
       document.getElementsByTagName("style")[0]
