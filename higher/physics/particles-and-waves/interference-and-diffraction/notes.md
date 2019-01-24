@@ -28,20 +28,20 @@ The maxima in an interference pattern are all numbered from the strongest in the
 
 The path difference of each maxima is expressed as:
 
-<p>pd = m \lambda</p>
+$$pd = m \lambda$$
 
 The path difference of each minima is expressed as:
 
-<p>pd = (m + \frac{1}{2})\lambda</p>
+$$pd = (m + \frac{1}{2})\lambda$$
 
 ## Diffraction gratings
 To produce a bright and sharp interference pattern for light, a diffraction grating can be used. This consists of many equally-spaced slits placed extremely close together. Light is diffracted through each slit, causing constructive and destructive interference. Monochromatic light (light of a single colour, and hence one frequency/wavelength) or white light can be used in experiments to provide the most accurate results.
 
 By looking at two waves leaving the grating it can be shown that the path difference is d sin theta, where d is the distance between the slits on the diffraction grating. This gives us the diffraction grating formulae for constructive and destructive interference:
 
-<p>d sin \theta = m \lambda</p>
+$$d sin \theta = m \lambda$$
 
-<p>d sin \theta = (m + \frac{1}{2})\lambda</p>
+$$d sin \theta = (m + \frac{1}{2})\lambda$$
 
 Where:
 - m = order of maxima / minima
@@ -54,13 +54,13 @@ Using some trigonometry, we can rearrange the equations above to find the distan
 
 <!--*Insert diagram here*-->
 
-<p>sinθ = \dfrac{x}{D}</p>
+$$sinθ = \dfrac{x}{D}$$
 
 This can then be substituated in to give:
 
-<p>D = \dfrac{xd}{mλ}</p>
+$$D = \dfrac{xd}{mλ}$$
 
-<p>x = \dfrac{Dmλ}{d}</p>
+$$x = \dfrac{Dmλ}{d}$$
 
 ## Visible light
 As part of this course, you are expected to know the approximate wavelength values for blue, green and red light:

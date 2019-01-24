@@ -43,7 +43,7 @@ One example of the use of a p-n junction is in a LED. When electrons travel acro
 
 The recombination energy can be calculated if the frequency of the light emitted is measured. The energy is calculated using the formula:
 
-<p>E = hf</p>
+$$E = hf$$
 
 Like other diodes, the LED does not work in reverse bias since the charge carriers do not travel across the junction towards each other so cannot recombine.
 

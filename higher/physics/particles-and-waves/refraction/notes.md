@@ -5,7 +5,7 @@ When light travels from one medium to another, it will have a change in velocity
 
 We can measure the angle at which the light is travelling relative to the material by drawing a dotted line at 90˚ to the edge called the normal. By comparing the ratio of the angles in various materials, scientists noticed there was a correlation of the sine of each angle shown in the following equation:
 
-<p>\dfrac{sinθ_1}{sinθ_2} = n</p>
+$$\dfrac{sinθ_1}{sinθ_2} = n$$
 
 Where material 1 is a vacuum and material 2 is the second material. This gives the absolute refractive index of the second material.
 
@@ -13,7 +13,7 @@ Where material 1 is a vacuum and material 2 is the second material. This gives t
 
 This equation is often shown in its general form for refractive index calculations:
 
-<p>n_1 sinθ_1 = n_2 sinθ_2</p>
+$$n_1 sinθ_1 = n_2 sinθ_2$$
 
 For these calculations, the refractive index of a vacuum and air are considered the same, both equal to 1. The greater the refractive index, the greater the amount of refraction. The refractive index of a material is also the same regardless of if the light is moving from a more dense material to a less dense one or vice versa.
 
@@ -27,13 +27,13 @@ When refraction occurs:
 
 Following this knowledge, we can expand our earlier equation:
 
-<p>n = \dfrac{sinθ_1}{sinθ_2} = \dfrac{v_1}{v_2} = \dfrac{\lambda_1}{\lambda_2}</p>
+$$n = \dfrac{sinθ_1}{sinθ_2} = \dfrac{v_1}{v_2} = \dfrac{\lambda_1}{\lambda_2}$$
 
 This version can also be rearranged into its general forms for both velocicty and wavelength:
 
-<p>n_1 v_1 = n_2 v_2</p>
+$$n_1 v_1 = n_2 v_2$$
 
-<p>n_1 \lambda_1 = n_2 \lambda_2</p>
+$$n_1 \lambda_1 = n_2 \lambda_2$$
 
 ## Frequency
 The refractive index of a material depends on the frequency of the light hitting it. This can be seen when white light passes through a glass prism. A visible spectrum is produced because each of the component colours of white light has a different frequency, so is each refracted at a different angle.
@@ -51,6 +51,6 @@ If the angle of incidence between the incoming light ray and the normal line is 
 
 The relationship between the critical angle for a material and its refractive index is shown below:
 
-<p>sinθ = \dfrac{1}{n}</p>
+$$sinθ = \dfrac{1}{n}$$
 
 Total internal reflection has many practical applications including optical fibres which have lead to breakthroughs in internet speed.
