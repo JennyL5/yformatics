@@ -130,7 +130,6 @@ function parse(markdown, path) {
     ) {
       in_latex = true;
       latex = "";
-      console.log(node.firstChild.literal);
     } else if (
       !event.entering &&
       node.type === "paragraph" &&
@@ -139,6 +138,7 @@ function parse(markdown, path) {
       node.lastChild.literal.endsWith("$$")
     ) {
       in_latex = false;
+      console.log(latex);
       var ne = new commonmark.Node("html_block", node.sourcepos);
 
       ne.literal = `<p style="text-align:center">${katex.renderToString(
@@ -147,7 +147,8 @@ function parse(markdown, path) {
       node.insertBefore(ne);
       node.unlink();
     } else if (in_latex) {
-      latex += node.literal;
+      console.log(node.type);
+      latex += node.literal ? node.literal : "";
     } else if (event.entering && node.type === "image") {
       let u = md5File.sync(`${path}/${node.destination}`);
       upload(`${path}/${node.destination}`);
@@ -326,7 +327,6 @@ createFolders(`subject`);
 createFolders(`unit`);
 createFolders(`topic`);
 createTopicFolders();
-console.log(searchable);
 const UnitTemplate = require(`./UnitTemplate.js`);
 const NoteTemplate = require(`./NoteTemplate.js`);
 const RootTemplate = require(`./RootTemplate.js`);
@@ -361,5 +361,4 @@ const write = data => {
 };
 fs.writeFileSync(`./build/index.html`, RootTemplate(r.data));
 write(r.data);
-console.log(r.data);
 module.exports = r;
