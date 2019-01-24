@@ -46,12 +46,21 @@ Baryons and Mesons can only have whole integer charges, such as 1, 0, -1.
 
 Beta decay can occur in unstable nuclei where the nucleus emits an electron, leaving the atom with the same mass number but an increase of 1 in the atomic number. For example:
 
+<<<<<<< HEAD
 $${}^{234}\_{91}Pa \rightarrow {}^{234}\_{92}U + {}^{0}_{-1}e$$
 
 In general terms, we can think of this as a neutron becoming a proton:
 
 $${}^{1}\_{0}n \rightarrow {}^{1}\_{1}p + {}^{0}_{-1}e$$
 
+=======
+$${}^{234}\_{91}Pa \rightarrow {}^{234}\_{92}U + {}^{0}\_{-1}e$$
+ 
+In general terms, we can think of this as a neutron becoming a proton:
+
+$${}^{1}\_{0}n \rightarrow {}^{1}\_{1}p + {}^{0}\_{-1}e$$
+ 
+>>>>>>> 0a4d5447a52e17857232e317b4509ce9d0888fa7
 While the mass number and the charge of the atom is conserved, the actual mass of the proton is less than the mass of the neutron. This decrease in mass results in a release of energy, available as kinetic energy to the emitted electron. However, particle physicists discovered that the kinetic energy of the electron was not always equal to this value. In fact, the electron could have almost any value for its kinetic energy.
 
 > _“The evidence points to the presence of a second particle, which shares the kinetic energy. This particle would have to have no charge (since charge is already conserved) and a very low mass since it is almost undetectable. This neutral, tiny one was named the neutrino.”_
