@@ -1,0 +1,50 @@
+h1,
+h2,
+h3,
+p,
+a {
+  color: #212121;
+}
+h1 {
+  font: 400 36px/1.45 "europa", serif;
+}
+
+h2 {
+  font: 400 28px/1.45 "europa", serif;
+  margin-bottom: -20px;
+}
+h3 {
+  font: 400 24px/1.45 "europa", serif;
+  margin-bottom: 0em;
+}
+p,
+ul,
+ol {
+  font: 400 19px/1.45 "futura-pt", serif;
+}
+a {
+  text-decoration: none;
+}
+
+@media (min-width: 1000px) {
+  h1 {
+    font-size: 48px;
+  }
+  h2 {
+    font-size: 36px;
+  }
+  h3 {
+    font-size: 27px;
+  }
+  p,
+  ul,
+  ol {
+    font-size: 22px;
+  }
+}
+*:focus {
+  outline: none;
+}
+*::-moz-focus-inner {
+  border: 0;
+}
