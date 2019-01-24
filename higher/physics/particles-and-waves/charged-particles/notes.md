@@ -14,7 +14,7 @@ Potential difference is defined as the energy required to move one coulomb of ch
  
 This leads us to the equation for the total work done in moving charges in an electric field:
 
-<p>E_w = QV</p>
+$$E_w = QV$$
  
 One volt is the potential difference between two points when the energy required to move one coulomb of charge between them is one joule. One volt is therefore equivalent to one joule per coulomb.
 
