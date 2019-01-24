@@ -1,5 +1,5 @@
 .card.bleed {
-  background: #fff;
+  background: #eee;
   display: inline-block;
   border-radius: 20px;
   margin: 16px;
@@ -25,7 +25,7 @@
 }
 
 .card.no-bleed {
-  background: #fff;
+  background: #eee;
   display: inline-block;
   border-radius: 20px;
   margin: 16px;
@@ -55,7 +55,7 @@
 }
 
 .card.no-bleed .action {
-  color: #212121;
+  color: #fff;
 
   font: 400 18px/1.45 "europa", serif;
   text-transform: capitalize;
@@ -72,12 +72,11 @@
   margin-left: 16px;
   margin-right: 16px;
   cursor: pointer;
-  background: #ededed;
-  color: #212121;
+  background: #2196f3;
   padding-left: 8px;
   padding-right: 8px;
   width: 84px;
 }
 .card.no-bleed .action:hover {
-  background: #e3e3e3;
+  background: #2196f3;
 }
