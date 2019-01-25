@@ -20,8 +20,8 @@
 .card.bleed .image {
   object-fit: cover;
 
-  height: 150px;
-  margin: 16px;
+  height: 120px;
+  margin: 28px;
 }
 
 .card.no-bleed {
