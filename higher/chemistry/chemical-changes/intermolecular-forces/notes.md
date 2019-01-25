@@ -12,7 +12,7 @@ This type of intermolecular bond is stronger than london dispersion forces. Pern
 <!--Insert diagram of divided polar molecule-->
 
 ## Hydrogen Bonding
-The strongest type of intermolecular force is a hydrogen bond. Evidence for these can be seen in the unusually high boiling points of compounds that have a Hydrogen atom bonded to an Oxygen, Nitrogen or Fluorene atom. In these compounds the Hydrogen electron in each atom is strongly pulled towards the other element, causing a very strong positive charge at the end of each chain. An example of this in a substance can be seen below.
+The strongest type of intermolecular force is a hydrogen bond. Evidence for these can be seen in the unusually high boiling points of compounds that have a Hydrogen atom bonded to an Oxygen, Nitrogen or Fluorine atom. In these compounds the Hydrogen electron in each atom is strongly pulled towards the other element, causing a very strong positive charge at the end of each chain. An example of this in a substance can be seen below.
 
 <!--Insert hydrogen bond diagram-->
 

@@ -15,7 +15,7 @@ Two of the simplist examples of amino acids are shown below.
 ## Polymerisation
 Proteins are created by joining together amino acids by connecting each amino group to the carboxyl group on another molecule. This forms a polymer through a condensation reaction, a process known as condensation polymerisation.
 
-<p>Amino \text{ } Acid + Amino \text{ } Acid \rightarrow Protein \text{ } Polymer + Water</p>
+$$Amino \text{ } Acid + Amino \text{ } Acid \rightarrow Protein \text{ } Polymer + Water$$
 
 Where the amino acids are connected is reffered to as a peptide link, but you may also hear it desicribed as an amide link.
 

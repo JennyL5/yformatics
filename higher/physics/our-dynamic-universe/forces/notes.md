@@ -15,7 +15,7 @@ You should also be familiar with the equation to calculate the force of the weig
 
 $$W = mg$$
 
-Force is measured in Newtons (N), where one Newton is defined as the value of the unbalanced force which will accelerate a mass of 1kg at 1 ms<sup>-2</sup>.
+Force is measured in Newtons ($N$), where one Newton is defined as the value of the unbalanced force which will accelerate a mass of 1kg at 1ms<sup>-2</sup>.
 
 ## Terminal velocity
 Previously, we have discounted friction from our calculations or assumed that it remains constant regardless of velocity. In actual fact, friction such as air resistance increases as velocity increases.

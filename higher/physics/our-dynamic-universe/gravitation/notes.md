@@ -21,12 +21,14 @@ Newton's law of universal gravitation proposed that every body with mass will ex
 $$F = \dfrac{Gm_1m_2}{r^2}$$
 
 Where:
-- F = the force (N)
-- m<sub>1</sub> = the first mass (kg)
-- m<sub>2</sub> = the second mass (kg)
-- r = the distance between them (m)
-- G = the gravitational constant (Nm<sup>2</sup>kg<sup>-2</sup>)
+- F = the force ($N$)
+- m<sub>1</sub> = the first mass ($kg$)
+- m<sub>2</sub> = the second mass ($kg$)
+- r = the distance between them ($m$)
+- G = the gravitational constant ($Nm^2kg^{-2}$)
 
 The value G, the gravitational constant, is one of the most difficult constants to measure accurately. The value we use in Higher Physics is:
 
-G = 6.67 x 10<sup>-11</sup> Nm<sup>2</sup>kg<sup>-2</sup>
+$$G = 6.67 \times 10^{-11} Nm^2kg^{-2}$$
+
+<!-- G = 6.67 x 10<sup>-11</sup> Nm<sup>2</sup>kg<sup>-2</sup> -->

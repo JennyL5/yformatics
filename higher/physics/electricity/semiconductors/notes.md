@@ -25,10 +25,10 @@ When a semiconductor is grown so that one half is p-type and the other half is n
 ## Diodes
 When we apply an external voltage we say that the diode is biased. There are two types of bias:
 
-- Forward Biased <br>
+- Forward biased <br>
   To make a diode conduct, a potential difference greater than 0.7 volts must be applied across the diode. The majority charge carriers (electrons in the n-type and holes in the p-type) can flow across the junction and round the circuit. Electrons flow from the n-type to the p-type.
 
-- Reverse Biased <br>
+- Reverse biased <br>
   This increases the width of the depletion layer forming an even greater barrier to the flow of charge carriers. The diode scarcely conducts. There is a very small current, known as the reverse or leakage current.
 
 ## Band structure

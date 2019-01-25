@@ -4,11 +4,11 @@ In a complete electric circuit containing a cell and a bulb, the free electrons 
 $$Q = It$$
 
 Where:
-- Q = Charge (C)
-- I = Current (A)
-- t = Time (s)
+- Q = Charge ($C$)
+- I = Current ($A$)
+- t = Time ($s$)
 
-Electrons are negatively charged at a value of e<sup>-</sup> = -1.6x10<sup>-19</sup>C.
+Electrons are negatively charged at a value of $e<sup>-</sup> = -1.6x10<sup>-19</sup>C.
 
 Whilst the speed of electrical signals can travel through copper wires is extremely fast, almost the speed of light, the actual velocity of the individual electrons carrying this signal is quite slow. It varies widely but an average ‘drift velocity’ could be expected to be approximately 0.1mm s<sup>-1</sup>.
 
@@ -22,9 +22,9 @@ The differences between AC and DC don't just stop at the applications though. Th
 
 The relationship between the root mean square voltage and the peak AC voltage and the root mean square current and the peak AC current are very similar and given by:
 
-$$V_{peak} = \sqrt{2} V_{rms}$$
+$$V\_{peak} = \sqrt{2} V\_{rms}$$
 
-$$I_{peak} = \sqrt{2} I_{rms}$$
+$$I\_{peak} = \sqrt{2} I\_{rms}$$
 
 In the UK, the mains voltage is quoted as 230V. Although our mains supplies AC current, this is the V<sub>rms</sub> value. The mains voltage can actually rise to a peak of approximately 325V.
 

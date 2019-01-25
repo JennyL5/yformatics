@@ -22,10 +22,10 @@ This apparent greater distance is the vector combination of the mirror displacem
 $$t' = \dfrac{t}{\sqrt{1 - \Big(\dfrac{v}{c}\Big)^2}}$$
 
 Where:
-- t' = time observed by a stationary observer (s)
-- t = time observed by a moving ovserver (s)
-- v = velocity of the object (ms<sup>-1</sup>)
-- c = the speed of light (ms<sup>-1</sup>)
+- $t' =$ time observed by a stationary observer ($s$)
+- $t =$ time observed by a moving ovserver ($s$)
+- $v =$ velocity of the object ($ms^{-1}$)
+- $c =$ the speed of light ($ms^{-1}$)
 
 ## Length Contraction
 Another implication of Einstein’s theory is the observed decrease in the length of an object which is moving at high speeds. This is called length contraction and is only noticeable at a substantial fraction of the speed of light, and only in the direction parallel to the direction in which the observed body is travelling.
@@ -33,10 +33,10 @@ Another implication of Einstein’s theory is the observed decrease in the lengt
 $$l' = l\sqrt{1 - \Big(\dfrac{v}{c}\Big)^2}$$
 
 Where:
-- l' = observed length by a stationary observer
-- l = observed length by a moving observer
-- v = velocity of the object (ms<sup>-1</sup>)
-- c = the speed of light (ms<sup>-1</sup>)
+- $l' =$ observed length by a stationary observer ($m$)
+- $l =$ observed length by a moving observer ($m$)
+- $v =$ velocity of the object ($ms^{-1}$)
+- $c =$ the speed of light ($ms^{-1}$)
 
 ## Lorentz Factor
 This is the scaling factor which shows the increase in time or decrease in length measured by a stationary observer compared to that by the observer in the moving frame.
