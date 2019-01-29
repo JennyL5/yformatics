@@ -45,28 +45,28 @@ let render = data =>
                   return E.Div({
                     class: [`pane`],
                     id: `pane-${n}`,
-                    style: `width: ${100 / data.length}%;`
+                    style: `width: calc(${100 / data.length}% - 80px);`
                   })(
                     child.children.length > 0
                       ? E.Join(
-                        child.children.map(gc => {
-                          return E.Anchor({
-                            href: gc.link,
-                            class: [`card`, `bleed`],
-                            style: `background:${gc.colour};`
-                          })(
-                            E.Img({ src: gc.image, class: [`image`] })(),
-                            E.H2()(gc.name)
-                          );
-                        })
-                      )
+                          child.children.map(gc => {
+                            return E.Anchor({
+                              href: gc.link,
+                              class: [`card`, `bleed`],
+                              style: `background:${gc.colour};`
+                            })(
+                              E.Img({ src: gc.image, class: [`image`] })(),
+                              E.H2()(gc.name)
+                            );
+                          })
+                        )
                       : E.Join([
-                        E.Img({
-                          src: `https://prospectus.nyc3.cdn.digitaloceanspaces.com/static/construction`
-                        })(),
-                        E.H1()("Page under construction"),
-                        E.H2()("Check back soon!")
-                      ])
+                          E.Img({
+                            src: `https://prospectus.nyc3.cdn.digitaloceanspaces.com/static/construction`
+                          })(),
+                          E.H1()("Page under construction"),
+                          E.H2()("Check back soon!")
+                        ])
                   );
                 })
               )
