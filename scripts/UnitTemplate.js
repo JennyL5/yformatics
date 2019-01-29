@@ -9,7 +9,7 @@ let render = data =>
           name: `viewport`,
           content: `width=device-width,initial-scale=1.0`
         }),
-        E.Title(`Prospectus`),
+        E.Title(`Prospectus.space`),
         E.StyleTemplate(data.children)
       ),
       E.Body(
@@ -49,35 +49,35 @@ let render = data =>
                   })(
                     child.children.length > 0
                       ? E.Join(
-                          child.children.map(gc => {
-                            return E.Div({
-                              href: gc.link,
-                              class: [`card`, `no-bleed`]
-                            })(
-                              E.Img({ src: gc.image, class: [`image`] })(),
-                              E.H3()(gc.name),
-                              E.Div()(
-                                gc.children
-                                  ? E.Join(
-                                      gc.children.map(ggc =>
-                                        E.Anchor({
-                                          href: ggc.link,
-                                          class: [`action`]
-                                        })(ggc.name)
-                                      )
-                                    )
-                                  : "Coming soon"
-                              )
-                            );
-                          })
-                        )
+                        child.children.map(gc => {
+                          return E.Div({
+                            href: gc.link,
+                            class: [`card`, `no-bleed`]
+                          })(
+                            E.Img({ src: gc.image, class: [`image`] })(),
+                            E.H3()(gc.name),
+                            E.Div()(
+                              gc.children
+                                ? E.Join(
+                                  gc.children.map(ggc =>
+                                    E.Anchor({
+                                      href: ggc.link,
+                                      class: [`action`]
+                                    })(ggc.name)
+                                  )
+                                )
+                                : "Coming soon"
+                            )
+                          );
+                        })
+                      )
                       : E.Join([
-                          E.Img({
-                            src: `https://prospectus.nyc3.cdn.digitaloceanspaces.com/static/construction`
-                          })(),
-                          E.H1()("Page under construction"),
-                          E.H2()("Check back soon!")
-                        ])
+                        E.Img({
+                          src: `https://prospectus.nyc3.cdn.digitaloceanspaces.com/static/construction`
+                        })(),
+                        E.H1()("Page under construction"),
+                        E.H2()("Check back soon!")
+                      ])
                   );
                 })
               )

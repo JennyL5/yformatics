@@ -1,0 +1,23 @@
+- type: topic
+  slug: learning
+  name: Learning
+  image: learning.jpg
+  visible: true
+
+- type: topic
+  slug: society
+  name: Society
+  image: society.jpg
+  visible: true
+
+- type: topic
+  slug: employability
+  name: Employability
+  image: employability.jpg
+  visible: true
+
+- type: topic
+  slug: culture
+  name: Culture
+  image: culture.jpg
+  visible: true

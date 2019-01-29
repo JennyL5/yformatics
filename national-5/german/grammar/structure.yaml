@@ -1,0 +1,11 @@
+- type: topic
+  slug: nouns
+  name: Nouns
+  image: nouns.jpg
+  visible: true
+
+- type: topic
+  slug: verbs
+  name: Verbs
+  image: verbs.jpg
+  visible: true

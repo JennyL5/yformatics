@@ -4,13 +4,15 @@ In a complete electric circuit containing a cell and a bulb, the free electrons 
 $$Q = It$$
 
 Where:
-- Q = Charge ($C$)
-- I = Current ($A$)
-- t = Time ($s$)
+- $Q =$ Charge ($C$)
+- $I =$ Current ($A$)
+- $t =$ Time ($s$)
 
-Electrons are negatively charged at a value of $e<sup>-</sup> = -1.6x10<sup>-19</sup>C.
+Electrons are negatively charged at a value of $e^-=-1.6\times10^{-19}C$.
 
-Whilst the speed of electrical signals can travel through copper wires is extremely fast, almost the speed of light, the actual velocity of the individual electrons carrying this signal is quite slow. It varies widely but an average ‘drift velocity’ could be expected to be approximately 0.1mm s<sup>-1</sup>.
+<!-- e<sup>-</sup> = -1.6x10<sup>-19</sup>C -->
+
+Whilst the speed of electrical signals can travel through copper wires is extremely fast, almost the speed of light, the actual velocity of the individual electrons carrying this signal is quite slow. It varies widely but an average ‘drift velocity’ could be expected to be approximately $0.1mm s^{-1}$.
 
 ## AC & DC
 So far in Physics, many of the circuits you will have looked at will have used a direct current supply from a simple cell or similar power source. While this is used in small batteries, the vast majority of electrical components are actually designed to be used with alternating current. AC is used everywhere in the real world from plugs in your house to the ceiling lights in your classroom.
