@@ -25,11 +25,11 @@ $$s = \dfrac{1}{2} (u + v)t$$
 
 where:
 
-- s = displacement ($m$)
-- u = initial velocity ($ms^{-1}$)
-- v = final velocity ($ms^{-1}$)
-- a = acceleration ($ms^{-2}$)
-- t = time ($s$)
+- $s =$ displacement ($m$)
+- $u =$ initial velocity ($ms^{-1}$)
+- $v =$ final velocity ($ms^{-1}$)
+- $a =$ acceleration ($ms^{-2}$)
+- $t =$ time ($s$)
 
 As a general rule in physics, we think of to the right or upwards as a positive direction, and to the left or downwards as a negative direction for vector values. If no direction is specified for the accelerating object, we assume it is travelling to the right.
 

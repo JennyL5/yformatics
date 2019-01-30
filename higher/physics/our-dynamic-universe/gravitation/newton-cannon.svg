@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1687" height="691" viewBox="0 0 1687 691">
+  <g id="Group_53" data-name="Group 53" transform="translate(-117 -195)">
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="1687" height="691" transform="translate(117 195)" fill="#fafafa"/>
+    <g id="Ellipse_28" data-name="Ellipse 28" transform="matrix(-0.035, -0.999, 0.999, -0.035, 686.085, 833.738)" fill="none" stroke="#151515" stroke-width="8" stroke-dasharray="30">
+      <circle cx="284" cy="284" r="284" stroke="none"/>
+      <circle cx="284" cy="284" r="280" fill="none"/>
+    </g>
+    <rect id="Rectangle_167" data-name="Rectangle 167" width="474" height="224" transform="translate(487 227)" fill="#fafafa"/>
+    <g id="Ellipse_27" data-name="Ellipse 27" transform="translate(747 327)" fill="none" stroke="#151515" stroke-width="15">
+      <circle cx="213" cy="213" r="213" stroke="none"/>
+      <circle cx="213" cy="213" r="205.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_168" data-name="Rectangle 168" width="11" height="76" transform="translate(950 256)" fill="#151515"/>
+    <g id="Group_49" data-name="Group 49" transform="matrix(0.719, 0.695, -0.695, 0.719, 654.131, -1287.956)">
+      <rect id="Rectangle_169" data-name="Rectangle 169" width="35.699" height="5.637" transform="translate(1334.097 840.214) rotate(17)" fill="#151515"/>
+      <rect id="Rectangle_170" data-name="Rectangle 170" width="35.699" height="5.637" transform="translate(1352.408 883.142) rotate(-73)" fill="#151515"/>
+    </g>
+    <g id="Group_50" data-name="Group 50" transform="matrix(-0.407, 0.914, -0.914, -0.407, 2574.51, -356.286)">
+      <rect id="Rectangle_169-2" data-name="Rectangle 169" width="35.699" height="5.637" transform="translate(1334.097 840.214) rotate(17)" fill="#151515"/>
+      <rect id="Rectangle_170-2" data-name="Rectangle 170" width="35.699" height="5.637" transform="translate(1352.408 883.142) rotate(-73)" fill="#151515"/>
+    </g>
+    <g id="Group_51" data-name="Group 51" transform="matrix(-0.982, -0.191, 0.191, -0.982, 2213.302, 1906.814)">
+      <rect id="Rectangle_169-3" data-name="Rectangle 169" width="35.699" height="5.637" transform="translate(1334.097 840.214) rotate(17)" fill="#151515"/>
+      <rect id="Rectangle_170-3" data-name="Rectangle 170" width="35.699" height="5.637" transform="translate(1352.408 883.142) rotate(-73)" fill="#151515"/>
+    </g>
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="23" cy="23" r="23" transform="translate(679 403)" fill="#151515"/>
+    <g id="Group_52" data-name="Group 52" transform="matrix(-0.122, -0.993, 0.993, -0.122, 42.835, 2149.891)">
+      <rect id="Rectangle_169-4" data-name="Rectangle 169" width="35.699" height="5.637" transform="translate(1334.097 840.214) rotate(17)" fill="#151515"/>
+      <rect id="Rectangle_170-4" data-name="Rectangle 170" width="35.699" height="5.637" transform="translate(1352.408 883.142) rotate(-73)" fill="#151515"/>
+    </g>
+  </g>
+</svg>
