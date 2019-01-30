@@ -1,7 +1,9 @@
 ## Introduction
+
 Proteins are some of the most fundamental building blocks for living organisms. Many foods such as milk and eggs are made of protein; even our hair, skin and muscles are all made out of different proteins. In this course we will look at their chemical structure as well as some of their properties and the processes they are involved in.
 
-## Amino Acids
+## Amino acids
+
 An amino acid is a simple organic compound which consists of a carbon chain with a carboxyl group (COOH) on one end and an amino group (NH<sub>2</sub>) on the other.
 
 ![Amino acid structure](amino_acid_structure.svg)
@@ -13,6 +15,7 @@ Two of the simplist examples of amino acids are shown below.
 ![Examples of amino acids](common_amino_acids.svg)
 
 ## Polymerisation
+
 Proteins are created by joining together amino acids by connecting each amino group to the carboxyl group on another molecule. This forms a polymer through a condensation reaction, a process known as condensation polymerisation.
 
 $$Amino \text{ } Acid + Amino \text{ } Acid \rightarrow Protein \text{ } Polymer + Water$$
@@ -21,5 +24,6 @@ Where the amino acids are connected is reffered to as a peptide link, but you ma
 
 ![Peptide link](peptide_link.svg)
 
-## Breaking Proteins
+## Breaking proteins
+
 Just as proteins can be created by condensation reactions, they can also be broken down into individual amino acids by hydrolysis. This adds back in water to separate the peptide links. You need to be able to spot where peptide links occour in a long polymer chian and indentiy the amino acids that would be left.

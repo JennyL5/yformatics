@@ -1,14 +1,13 @@
 - type: subject
   slug: physics
   name: Physics
-  colour: '#03A9F4'
+  colour: "#03A9F4"
   image: physics.svg
   visible: true
 
 - type: subject
   slug: german
   name: German
-  colour: '#111'
-  image: physics.svg
+  colour: "#111"
+  image: german.svg
   visible: true
-  
