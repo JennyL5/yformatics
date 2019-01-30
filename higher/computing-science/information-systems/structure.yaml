@@ -1,0 +1,35 @@
+- type: topic
+  slug: database-structures
+  name: Database Structures
+  image: database-structures.jpg
+  visible: true
+
+- type: topic
+  slug: web-systems
+  name: Web Systems
+  image: web-systems.jpg
+  visible: true
+
+- type: topic
+  slug: media-types
+  name: Media Types
+  image: media-types.jpg
+  visible: true
+
+- type: topic
+  slug: scripting
+  name: Scripting
+  image: scripting.jpg
+  visible: true
+
+- type: topic
+  slug: network-connectivity
+  name: Network Connectivity
+  image: network-connectivity.jpg
+  visible: true
+
+- type: topic
+  slug: security-risks
+  name: Security Risks
+  image: security-risks.jpg
+  visible: true
