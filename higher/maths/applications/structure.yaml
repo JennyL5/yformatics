@@ -1,35 +1,35 @@
 - type: topic
   slug: recurrence-relations
   name: Recurrence Relations
-  image: blank.jpg
+  image: recurrence-relations.jpg
   visible: true
-  
+
 - type: topic
   slug: optinisation
   name: Optinisation
-  image: blank.jpg
+  image: optinisation.jpg
   visible: true
 
 - type: topic
   slug: differentiation-graphs
   name: Differentiation Graphs
-  image: blank.jpg
+  image: differentiation-graphs.jpg
   visible: true
 
 - type: topic
   slug: integration-graphs
   name: Integration Graphs
-  image: blank.jpg
+  image: integration-graphs.jpg
   visible: true
 
 - type: topic
   slug: the-straight-line
   name: The Straight Line
-  image: blank.jpg
+  image: the-straight-line.jpg
   visible: true
 
 - type: topic
   slug: the-circle
   name: The Circle
-  image: blank.jpg
+  image: the-circle.jpg
   visible: true

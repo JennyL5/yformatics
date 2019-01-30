@@ -4,7 +4,9 @@ When making a meal, we often like to cook our food. This not only warms it up, b
 
 Denaturing
 
-$$\int  dx$$
+<!-- $$U\_{n+1} = 2U\_n + 4$$ -->
+
+$$y = mx + c$$
 
 ## Chemical structures
 

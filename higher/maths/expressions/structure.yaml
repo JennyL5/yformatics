@@ -1,13 +1,13 @@
 - type: topic
   slug: vectors
   name: Vectors
-  image: blank.jpg
+  image: vectors.jpg
   visible: true
-  
+
 - type: topic
   slug: trigonometric-equations
   name: Trigonometric Equations
-  image: blank.jpg
+  image: trigonometric-equations.jpg
   visible: true
 
 - type: topic
@@ -25,11 +25,11 @@
 - type: topic
   slug: quadratic-functions
   name: Quadratic Functions
-  image: blank.jpg
+  image: quadratic-functions.jpg
   visible: true
 
 - type: topic
   slug: exponentials-and-logarithms
   name: Exponentials & Logarithms
-  image: blank.jpg
+  image: exponentials-and-logarithms.jpg
   visible: true
