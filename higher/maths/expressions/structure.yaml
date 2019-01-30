@@ -13,13 +13,13 @@
 - type: topic
   slug: sets-and-functions
   name: Sets & Functions
-  image: blank.jpg
+  image: sets-and-functions.jpg
   visible: true
 
 - type: topic
   slug: graphs-of-functions
   name: Graphs of Functions
-  image: blank.jpg
+  image: graphs-of-functions.jpg
   visible: true
 
 - type: topic

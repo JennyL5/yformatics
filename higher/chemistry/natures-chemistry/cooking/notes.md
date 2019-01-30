@@ -6,7 +6,7 @@ Denaturing
 
 <!-- $$U\_{n+1} = 2U\_n + 4$$ -->
 
-$$y = mx + c$$
+<!-- $$\mathbb{NZQR}$$ -->
 
 ## Chemical structures
 
