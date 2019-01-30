@@ -47,7 +47,7 @@ It is also equivelant to the change in momentum:
 
 $$Ft = mv - mu$$
 
-## Force-time Graphs
+## Force-time graphs
 
 How the force changes through an impact can be displayed by means of a force-time graph.
 

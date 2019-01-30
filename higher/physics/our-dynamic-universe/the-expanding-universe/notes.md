@@ -21,7 +21,7 @@ The physical quantity called red shift ‘z’ is given by the equation:
 
 $$z = \dfrac{\lambda_{observed} - \lambda_{rest}}{\lambda_{rest}}$$
 
-## Hubble's Law
+## Hubble's law
 
 In the 1920s, the astronomer Edwin Hubble noticed that the light from some distant galaxies was redshifted. For each element, the spectral lines were all shifted by the same amount for each galaxy. Over a few years, he examined the redshift of galaxies at varying distances from Earth. He observed that the further away a galaxy was, the faster it appeared to be travelling. The speed of objects travelling away from Earth is known as ‘recession velocity’.
 
@@ -37,17 +37,17 @@ Where:
 
 Hubble's constant is given as $2.34 \times 10^{-18}s^{-1}$.
 
-## Age of the Universe
+## Age of the universe
 
 It may sound obvious but if galaxies are travelling away from us then they must have been closer in the past. By working back in time, it is possible to calculate a time where all the galaxies were at the same point in space. This allows for the age of the universe to be calculated. According to NASA, the universe is approximately 13.7 billion years old.
 
-## Dark Matter
+## Dark matter
 
 In the same way that Earth orbits the Sun, the Sun orbits around our galaxy with a period of approximately 240 million years. The speed of rotation of an object is determined by the size of the force maintaining its rotation. For the sun, this central force is due to gravity, which is determined by the amount of matter inside the Sun’s orbital path. If we know the rotational speed of the Sun we can calculate how much force is required to keep it in orbit, and hence the amount of matter in our galaxy.
 
 There is only one problem. Calculations of the amount of matter in the galaxy suggest there is more than astronomers can detect. The conclusion appears to be a new type of matter called ‘dark matter’ must exist in the universe. This matter does not interact with electromagnetic radiation and so is completely invisible. Current estimates are that as much as 22% of the total matter in the universe could be made up of dark matter.
 
-## Dark Energy
+## Dark energy
 
 Both matter and dark matter contribute to gravity. Gravity is an attractive force so all the matter in the universe is acting to slow the rate of outward expansion. However, measurements of the expansion rate of the Universe lead to the conclusion that the rate of expansion is actually increasing rather than decreasing. Something is overcoming the force of gravity to cause the universe to expand at an ever-increasing rate. This 'dark energy', similar to dark matter, is not detectable in the same way we detect electromagnetic energy radiation. Current estimates are that up to 74% of the total energy in the universe could be in this form.
 
@@ -65,7 +65,7 @@ Thermal emission peaks allow the temperature of stellar objects to be determined
 
 ![Stellar temperatures](stellar_temperatures.svg)
 
-## The Big Bang
+## The big bang
 
 Hubble’s Law was the first suggestion that a cosmic starting point could be identified. If the universe is currently expanding then at some earlier time it must have been compressed into a single fixed point where all the matter and energy in the universe was compressed into an infinitesimally small volume.
 

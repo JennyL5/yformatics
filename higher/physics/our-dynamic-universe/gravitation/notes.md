@@ -14,7 +14,7 @@ As we know, the Earth follows a curved path around the Sun. This means that, acc
 
 ## Gravitational field strength
 
-Gravitational fields are areas where masses experience a force. We call this gravitational force weight, with the symbol 'W'. The weight can be calculated by the product of the mass of the object with the gravitational field strength:
+Gravitational fields are areas where masses experience a force. We call this gravitational force weight, with the symbol 'W'. Weight can be calculated by the product of the mass of the object with the gravitational field strength:
 
 $$W = mg$$
 

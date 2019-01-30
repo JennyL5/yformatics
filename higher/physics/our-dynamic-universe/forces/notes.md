@@ -1,4 +1,4 @@
-## Dynamics Revision
+## Dynamics revision
 
 When studying dynamics, we look at balanced and unbalanced forces. These are described in Newton’s first two laws:
 
@@ -32,7 +32,7 @@ $$F = Tension - Friction$$
 
 Sometimes the force of friction is negligible which means that the acceleration of an object can be calculated using the tension as the unbalanced force in Newton's second law.
 
-## Connected Systems
+## Connected systems
 
 To make problems involving forces acting on masses more complicated, we start to look at them as part of a system. This could be anything from a pulley to train carriages. Questions in this section often have multiple parts where you will be asked about forces on individual objects as well as the system as a whole.
 
@@ -63,7 +63,7 @@ motion of the object up or down the slope.
 
 ![Slope diagram](block_slope.svg)
 
-## Conservation of Energy
+## Conservation of energy
 
 The Law of Conservation of Energy states:
 

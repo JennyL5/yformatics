@@ -1,4 +1,4 @@
-## Kinematics Revision
+## Kinematics revision
 
 Kinematics is the study of the motions of objects. When we are looking at the forces that cause this motion, we are studying dynamics. At national 5, you should have used the following equations:
 
@@ -11,7 +11,7 @@ These are almost identical but with the key difference of calculating scalars or
 - A scalar quantity only has a magnitude.
 - A vector quantity has a magnitude and a direction.
 
-## Equations of Motion
+## Equations of motion
 
 There are four equations of motion that can be applied to any object moving with uniform acceleration in a straight line:
 
