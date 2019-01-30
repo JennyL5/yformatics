@@ -1,29 +1,29 @@
 - type: topic
   slug: exact-values
   name: Exact Values
-  image: blank.jpg
+  image: exact-values.jpg
   visible: true
-  
+
 - type: topic
   slug: trigonometry
   name: Trigonometry
-  image: blank.jpg
+  image: trigonometry.jpg
   visible: true
 
 - type: topic
   slug: polynomials
   name: Polynomials
-  image: blank.jpg
+  image: polynomials.jpg
   visible: true
 
 - type: topic
   slug: differentiation-equations
   name: Differentiation Equations
-  image: blank.jpg
+  image: differentiation-equations.jpg
   visible: true
 
 - type: topic
   slug: integration-equations
   name: Integration Equations
-  image: blank.jpg
+  image: integration-equations.jpg
   visible: true
