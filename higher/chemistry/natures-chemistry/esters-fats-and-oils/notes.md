@@ -12,7 +12,7 @@ A carboxylic acid is any chemical compound with the carboxyl functional group (C
 
 ## Esters
 
-Esters are created by reacting alcohols and carboxylic acids together and will make far more sense if you have read and understand the sections above. These compounds have a functional group called the 'ester link' which, as the name suggests, is where the two compounds join. In order to free up those bonds from the saturated reactants, water is also created in the reaction from a hydroxyl group and a hydrogen.
+Esters are created by reacting alcohols and carboxylic acids together and will make far more sense if you have read and understood the sections above. These compounds have a functional group called the 'ester link' which, as the name suggests, is where the two compounds join. In order to free up those bonds from the saturated reactants, water is also created in the reaction from a hydroxyl group and a hydrogen.
 
 ![Ester link](ester_link.svg)
 
@@ -22,7 +22,7 @@ Naming esters is slightly more complicated as there are two parts to consider. T
 
 ## Glycerol
 
-Before we look at the chemical structures of fats and oils, it is helpful to understand a substance that forms the foundation for how they are built. Glycerol is what is known as a 'triol', an alcohol with three hydroxyl functional groups. Its chemical formual is propan-1,2,3-triol and its structure is shown below.
+Before we look at the chemical structures of fats and oils, it is helpful to understand a substance that forms the foundation for how they are built. Glycerol is what is known as a 'triol', an alcohol with three hydroxyl functional groups. Its chemical formula is propan-1,2,3-triol and its structure is shown below.
 
 ![Structure of glycerol](glycerol.svg)
 
