@@ -1,0 +1,35 @@
+- type: topic
+  slug: introduction
+  name: Introduction
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: functions
+  name: Functions
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: limits
+  name: Limits
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: differentiation
+  name: Differentiation
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: graph-sketching
+  name: Graph Sketching
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: optimisation
+  name: Optimisation
+  image: blank.jpg
+  visible: true

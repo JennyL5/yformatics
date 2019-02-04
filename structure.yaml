@@ -7,8 +7,13 @@
   slug: higher
   name: Higher
   visible: true
-  
+
 - type: level
   slug: advanced-higher
   name: Advanced Higher
   visible: false
+
+- type: level
+  slug: uni
+  name: Uni
+  visible: true

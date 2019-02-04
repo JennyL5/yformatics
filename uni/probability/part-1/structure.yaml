@@ -1,0 +1,23 @@
+- type: topic
+  slug: counting
+  name: Counting
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: axioms-of-probability
+  name: Axioms of Probability
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: conditional-probability
+  name: Conditional Probability
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: expected-values
+  name: Expected Values
+  image: blank.jpg
+  visible: true
