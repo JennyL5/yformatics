@@ -21,3 +21,15 @@
   name: Expected Values
   image: blank.jpg
   visible: true
+
+- type: topic
+  slug: binomial-expansion
+  name: Binomial Expansion
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: poisson-distribution
+  name: Poisson Distribution
+  image: blank.jpg
+  visible: true
