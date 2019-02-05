@@ -1,19 +1,9 @@
 - type: level
-  slug: national-5
-  name: National 5
-  visible: true
-
-- type: level
-  slug: higher
-  name: Higher
-  visible: true
-
-- type: level
-  slug: advanced-higher
-  name: Advanced Higher
+  slug: year-1
+  name: Year 1
   visible: false
 
 - type: level
-  slug: uni
-  name: Uni
+  slug: year-2
+  name: Year 2
   visible: true
