@@ -1,12 +1,12 @@
 ## Introduction
 
-The rate of a chemical reaction is a very important concept as we start to look at more complicated reactants and compounds. Understanding the factors that affect the rate of a reaction is the first step towards being able to control it. This can be extremely useful for chemists in the real world. In a manufacturing process, a company my want to speed up the rate of a reaction in order to increase the output and therefore increase profit. In dangerous situations, a reaction may need to be slowed down to decrease risks such as an explosion.
+The rate of a chemical reaction is a very important concept as we start to look at more complicated reactants and compounds. Understanding the factors that affect the rate of a reaction is the first step towards being able to control it. This can be extremely useful for chemists in the real world. In a manufacturing process, a company may want to speed up the rate of a reaction in order to increase the output and therefore increase profit. In dangerous situations, a reaction may need to be slowed down to decrease risks such as an explosion.
 
 ## Factors affecting rate
 
 There are four main factors that directly change the rate of a reaction:
 
-- Partical Size <br>
+- Particle Size <br>
   The smaller the particle size of the reactants, the faster the reaction.
 
 - Concentraton <br>
@@ -24,7 +24,7 @@ The rate of a reaction can be plotted in a graph. You need to be able to recogni
 
 ![Reaction rate graph](rate_graphs.svg)
 
-Above is the graphs of three reactions that each produce the same volume of product in total. However, as we can see by the gradient of each line, the red one will finish first, followed by the bule and then finally the green.
+Above is the graphs of three reactions that each produce the same volume of product in total. However, as we can see by the gradient of each line, the red one will finish first, followed by the blue and then finally the green.
 
 ## Collision theory
 
@@ -34,7 +34,7 @@ The smaller the size of the particles, the more surface area is exposed for coll
 
 ## Activation energy
 
-For a reaction of occur successfully, the colliding particles must have a minimum kinetic energy. This is known as the activation energy.
+For a reaction to occur successfully, the colliding particles must have a minimum kinetic energy. This is known as the activation energy.
 
 The activation energy can also be shown in a graph that can be used to determine which different factors impact how much of the reactants will reach the activation energy.
 
@@ -62,4 +62,4 @@ These graphs can also be used to display the enthalpy change of the reaction.
 
 ## Catalysts
 
-A catalyst is a substance that can alter the rate of a reaction but is not used up itself. One practical example of a catalyst in the real world is a 'catalytic convertor' which is used to reduce harmful gases leaving a internal combustion engine car exhaust.
+A catalyst is a substance that can alter the rate of a reaction but is not used up itself. One practical example of a catalyst in the real world is a 'catalytic converter' which is used to reduce harmful gases leaving an internal combustion engine car exhaust.

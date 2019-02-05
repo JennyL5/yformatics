@@ -1,14 +1,14 @@
 ## Intramolecular bonds
 
-Intramolecular forces are the bonds that are formed between atoms to create differnt types of compounds. Much of this part of the higher chemistry course follows on from national 5, although higher extends this knowledge and adds new content so it is important that you fully understnd it.
+Intramolecular forces are the bonds that are formed between atoms to create different types of compounds. Much of this part of the higher chemistry course follows on from national 5, although higher extends this knowledge and adds new content so it is important that you fully understand it.
 
 ## Pure covalent bonds
 
-Up to now we have seen covalent bonding as the electrostatic attraction between two positive neucli and a negative shared pair of electrons. However, the bond is only considered to be pure covalent, or non-polar covalent, if both atoms share electrons equally.
+Up to now, we have seen covalent bonding as the electrostatic attraction between two positive nuclei and a negative shared pair of electrons. However, the bond is only considered to be pure covalent, or non-polar covalent, if both atoms share electrons equally.
 
 ## Polar covalent bonds
 
-When some atoms covalently bond, the electrons are not shared equally. This causes the shared pair of electrons to be located closer to one of the atoms than the other. Subsequestly, the atom closer to electrons gets slightly negatively charged and the atom further away from the electrons gets slightly positively charged.
+When some atoms covalently bond, the electrons are not shared equally. This causes the shared pair of electrons to be located closer to one of the atoms than the other. Subsequently, the atom closer to electrons gets slightly negatively charged and the atom further away from the electrons gets slightly positively charged.
 
 This is denoted on chemical diagrams with 'sigma+' and 'sigma-' representing the respective charges.
 
@@ -18,9 +18,9 @@ This is denoted on chemical diagrams with 'sigma+' and 'sigma-' representing the
 
 ## Polar molecules
 
-A larger covalent molecule could have many bonds that may be prue covalent, polar covalent, or a mixture of both. However, simply having polar bonds is not enough to class the whole molecule as being polar. That depends on the shape of the molecule.
+A larger covalent molecule could have many bonds that may be pure covalent, polar covalent, or a mixture of both. However, simply having polar bonds is not enough to class the whole molecule as being polar. That depends on the shape of the molecule.
 
-The way to test this, for any given moleclue you may be asked about, is to draw out the full structural diagram. Denote all charges of the charges of the different atoms using the sigma notation above. If a straight line can be drawn through the molecule, separating the positively charges atoms from the negative ones, then the whole molecule is regarded as polar.
+The way to test this, for any given molecule you may be asked about, is to draw out the full structural diagram. Denote all charges of the charges of the different atoms using the sigma notation above. If a straight line can be drawn through the molecule, separating the positively charges atoms from the negative ones, then the whole molecule is regarded as polar.
 
 As shown in the diagram below, both water and methane have polar covalent bonds, but water is a polar molecule while methane is not.
 
@@ -34,7 +34,7 @@ This brings us on to ionic bonding, just as you learned it in national 5. To rec
 
 ## Bonding continuum
 
-These three main types of bonding can all be explained using electronegativity. You can find the electronegativity values for all the elements you need on page 11 of your data book. Using this, you can compare the vlalues for any two elements.
+These three main types of bonding can all be explained using electronegativity. You can find the electronegativity values for all the elements you need on page 11 of your data book. Using this, you can compare the values for any two elements.
 
 - If the difference in electronegativity is between 0 and 0.5 then the bond between those two elements will be pure covalent.
 

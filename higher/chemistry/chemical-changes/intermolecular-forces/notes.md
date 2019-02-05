@@ -1,10 +1,10 @@
 ## Intermolecular bonds
 
-While intramolecular forces act between atoms to form differnt types of compounds, intermolecular bonds are the attractive forces that act between molecules to bind them together. There are three main types of these that each work in different ways and subsequently have different strengths. These bonds can each be broken by applying heat to the molecules, but some are far easier to break than others.
+While intramolecular forces act between atoms to form different types of compounds, intermolecular bonds are the attractive forces that act between molecules to bind them together. There are three main types of these that each work in different ways and subsequently have different strengths. These bonds can each be broken by applying heat to the molecules, but some are far easier to break than others.
 
 ## London dispersion forces
 
-The first type of intermolecular bond we look at is london dispersion forces, sometimes reffered to as Van der Waals forces. This is a temporary attractive force that results when the electrons in two adjacent atoms occupy positions that make the atoms form temporary dipoles.
+The first type of intermolecular bond we look at is london dispersion forces, sometimes referred to as Van der Waals forces. This is a temporary attractive force that results when the electrons in two adjacent atoms occupy positions that make the atoms form temporary dipoles.
 
 <!--Insert diagram of LDFs-->
 
