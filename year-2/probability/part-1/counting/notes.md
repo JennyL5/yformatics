@@ -28,7 +28,7 @@ $$n = n_1 \times n_2 \times n_3 \times n_4 \times n_5 \times n_6 \times n_7$$
 
 $$= 26 \times 26 \times 26 \times 10 \times 10 \times 10 \times 10$$
 
-$$= 175760000$$
+$$= 175,760,000$$
 
 Consider a 7 digit car registration plate. The first 3 characters are letters and the last 4 characters are numbers. Suppose now that repetition of characters is not allowed.
 
@@ -38,7 +38,7 @@ $$n = n_1 \times n_2 \times n_3 \times n_4 \times n_5 \times n_6 \times n_7$$
 
 $$= 26 \times 25 \times 24 \times 10 \times 9 \times 8 \times 7$$
 
-$$= 78624000$$
+$$= 78,624,000$$
 
 You can see by comparing these two examples the massive difference in the final answer that simply allowing repetition causes.
 
