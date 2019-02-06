@@ -1,0 +1,6 @@
+- type: subject
+  slug: calculus
+  name: Calculus
+  colour: "#03A9F4"
+  image: Calculus.svg
+  visible: true

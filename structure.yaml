@@ -1,7 +1,7 @@
 - type: level
   slug: year-1
   name: Year 1
-  visible: false
+  visible: true
 
 - type: level
   slug: year-2
