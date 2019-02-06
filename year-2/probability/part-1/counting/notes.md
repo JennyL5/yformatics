@@ -1,6 +1,6 @@
 ## Possible outcomes
 
-Suppose a travelling salesman was travelling along a path between 4 cities. They start in city 1. There are 3 possible routes they could take to travel from city 1 to city 2. There are 4 possible routes they could take to travel from city 2 to city 3. There are 5 possible routes they could take to travel from city 3 to city 4. How many total possible routes could the salesman take?
+Suppose a traveling salesman was traveling along a path between 4 cities. They start in city 1. There are 3 possible routes they could take to travel from city 1 to city 2. There are 4 possible routes they could take to travel from city 2 to city 3. There are 5 possible routes they could take to travel from city 3 to city 4. How many total possible routes could the salesman take?
 
 The answer is given by:
 
@@ -40,7 +40,7 @@ $$= 26 \times 25 \times 24 \times 10 \times 9 \times 8 \times 7$$
 
 $$= 78624000$$
 
-You can see by comparing these two examples the massive difference in final answer that simply allowing repetition causes.
+You can see by comparing these two examples the massive difference in the final answer that simply allowing repetition causes.
 
 ## Ordering & distinction
 
@@ -57,7 +57,7 @@ Let:
 
 $n_1 =$ number of subjects
 
-$n_2 =$ number of arrangements of each subject
+$n_2 =$ number of arrangements for each subject
 
 We can pick these number out of the question using techniques above.
 
@@ -85,11 +85,11 @@ $$= 6912$$
 
 <br>
 
-Distinction is also extremely important when considering situations where you have indistinct objects and you are looking for the total number of distict orderings of that object.
+Distinction is also extremely important when considering situations where you have indistinct objects and you are looking for the total number of distinct orderings of that object.
 
 Suppose you have 9 flags; 4 are red, 3 are blue and 2 are green. How many flag signals can you construct?
 
-In this question there will be some orderings of the flags that are identical due to the flags being indistinct. We need to find a way to count them while discounting repeated orderings.
+In this question, there will be some orderings of the flags that are identical due to the flags being indistinct. We need to find a way to count them while discounting repeated orderings.
 
 You know there are 9 flags in total and how many of each colour, so let's define:
 
@@ -127,7 +127,7 @@ This is where choose comes in, a situation where you have to pick $k$ objects fr
 
 $$\dbinom{n}{k} = \dfrac{n!}{k!(n-k)!}$$
 
-For this example we have two distict catagories to pick objects from.
+For this example we have two distinct categories to pick objects from.
 
 $$n = \dbinom{5}{3} \dbinom{7}{3}$$
 
