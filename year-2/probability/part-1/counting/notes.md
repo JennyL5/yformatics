@@ -53,6 +53,36 @@ There are two things to think about there:
 - Ordering of subjects
 - Ordering of books
 
+Let:
+
+$n_1 =$ number of subjects
+
+$n_2 =$ number of arrangements of each subject
+
+We can pick these number out of the question using techniques above.
+
+$n_1 = 4$
+
+$n_2 = m_1 \times m_2 \times m_3 \times m_4$
+
+Where:
+
+$m_1 = 4 \times 3 \times 2 \times 1 = 4!$ (maths)
+
+$m_2 = 3 \times 2 \times 1 = 3!$ (chemistry)
+
+$m_3 = 2 \times 1 = 2!$ (history)
+
+$m_4 = 1 = 1!$ (language)
+
+$$n = n_1 \times n_2$$
+
+$$= n_1 \times m_1 \times m_2 \times m_3 \times m_4$$
+
+$$= 4 \times 4! \times 3! \times 2! \times 1!$$
+
+$$= 6912$$
+
 <br>
 
 Distinction is also extremely important when considering situations where you have indistinct objects and you are looking for the total number of distict orderings of that object.
@@ -61,4 +91,28 @@ Suppose you have 9 flags; 4 are red, 3 are blue and 2 are green. How many flag s
 
 In this question there will be some orderings of the flags that are identical due to the flags being indistinct. We need to find a way to count them while discounting repeated orderings.
 
-## Permutations
+You know there are 9 flags in total and how many of each colour, so let's define:
+
+$n_t = 9$ (total)
+
+$n_1 = 4$ (red)
+
+$n_2 = 3$ (blue)
+
+$n_3 = 2$ (green)
+
+The equation to use in this context when there will be dupicates is:
+
+$$n = \dfrac{n_t!}{n_1!n_2!...n_r!}$$
+
+Where r is the number of distinct objects.
+
+So in this example:
+
+$$n = \dfrac{9!}{4!3!2!}$$
+
+$$n = \dfrac{362880}{288}$$
+
+$$n = 1260$$
+
+<!-- ## Permutations -->
