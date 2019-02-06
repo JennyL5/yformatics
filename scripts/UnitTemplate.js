@@ -9,7 +9,7 @@ let render = data =>
           name: `viewport`,
           content: `width=device-width,initial-scale=1.0`
         }),
-        E.Title(`Prospectus.space`),
+        E.Title(`Yformatics`),
         E.StyleTemplate(data.children)
       ),
       E.Body(

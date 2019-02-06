@@ -42,7 +42,7 @@ $$E^c$$
 
 $$S \backslash E$$
 
-For the event that the result is an even number then:
+For the event that the result is an even number, the composite will be that the result is an odd number:
 
 $$E = \\{2,4,6\\}$$
 
