@@ -27,3 +27,5 @@ We can then graph this data to make it easier to visually compare them and see i
 ## Pixelation
 
 One of the most common ways of training vision models and image classifiers is to pixelate the image and then use that as a data point.
+
+![Pixelated A](pixelated-a.svg)
