@@ -1,5 +1,11 @@
 - type: topic
-  slug: part-1
-  name: Part 1
+  slug: expressing-data-as-vectors
+  name: Expressing Data as Vectors
   image: blank.jpg
-  visible: false
+  visible: true
+
+- type: topic
+  slug: clustering
+  name: Clustering
+  image: blank.jpg
+  visible: true
