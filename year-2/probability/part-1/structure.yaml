@@ -17,8 +17,8 @@
   visible: true
 
 - type: topic
-  slug: expected-values
-  name: Expected Values
+  slug: random-variables
+  name: Random Variables
   image: blank.jpg
   visible: true
 
@@ -26,10 +26,10 @@
   slug: binomial-expansion
   name: Binomial Expansion
   image: blank.jpg
-  visible: true
+  visible: false
 
 - type: topic
   slug: poisson-distribution
   name: Poisson Distribution
   image: blank.jpg
-  visible: true
+  visible: false
