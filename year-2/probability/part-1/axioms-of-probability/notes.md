@@ -52,7 +52,7 @@ $$E^c = \\{1,3,5\\}$$
 
 ## Calculating probability
 
-The probability $\Bbb{P}$ of an event is a measure of how likely it is that a given event will occour. This is a number defined for each event between 0 and 1, where the probability of the whole subspace is equal to exactly 1.
+The probability $\Bbb{P}$ of an event is a measure of how likely it is that a given event will occour. This is a number defined for each event between 0 and 1.
 
 In it's simplist form:
 
@@ -61,6 +61,14 @@ $$\Bbb{P}(E) = \dfrac{\text{\\# event outcomes}}{\text{\\# total outcomes}}$$
 <!-- We will also see that for any sequence of mutually exclusive events:
 
 $$\Bbb{P}(\bigcup\limits_{i=1}^{\infty}E_i) = \sum\limits_{i=1}^{\infty} \Bbb{P}(E_i)$$ -->
+
+Some key properties of probability are:
+
+$\Bbb{P}(S) = 1$
+
+$\Bbb{P}(\emptyset) = 0$
+
+$\Bbb{P}(E^c) = 1 - \Bbb{P}(E)$
 
 ## Inclusion-exclusion principle
 
@@ -74,12 +82,24 @@ Here is where we come across a problem where we have to account for whether the 
 
 ![Overlap of two events](overlap-two-events.svg)
 
-We can see where there is overlap between the two events, this area is double counted. In order to account for this, we use a rule called the inclusion-exclusion principle:
+We can see where there is overlap between the two events, that area is double counted. In order to account for this, we use a rule called the inclusion-exclusion principle:
 
 $$\Bbb{P}(E_1 \cup E_2) = \Bbb{P}(E_1) + \Bbb{P}(E_2) - \Bbb{P}(E_1 \cap E_2)$$
 
-This also shows us that for any sequence of mutually exclusive events:
+This works because when events are disjoint, their intersection is zero. By this concept we can also see that for any sequence of mutually exclusive events:
 
 $$\Bbb{P}(\bigcup\limits_{i=1}^{n}E_i) = \sum\limits_{i=1}^{n} \Bbb{P}(E_i)$$
 
-<!-- ## Probability distribution -->
+## Probability distribution
+
+The probability distribution is a set of probabilities that correlate to each outcome in the subspace. Formally:
+
+$\text{Suppose } S = \\{x_1,x_2,...,x_n\\} \text{ is finite}$
+
+$\text{let } p_i = \Bbb{P}(x_i) \text{ for } i = 1,2,...,n$
+
+\$\text{then } \\{p_1,p_2,...,p_n\\} \text{ represents the probability distribution}\$
+
+<!-- This can then be graphed: -->
+
+When the probilities of all outcomes in the subspace are exactly equal, this is known as a uniform distribution.
