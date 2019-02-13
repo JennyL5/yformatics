@@ -50,8 +50,36 @@ $$E^c = \\{1,3,5\\}$$
 
 ![Composite event](composite-event.svg)
 
-<!-- ## Calculating probability
+## Calculating probability
+
+The probability $\Bbb{P}$ of an event is a measure of how likely it is that a given event will occour. This is a number defined for each event between 0 and 1, where the probability of the whole subspace is equal to exactly 1.
+
+In it's simplist form:
+
+$$\Bbb{P}(E) = \dfrac{\text{\\# event outcomes}}{\text{\\# total outcomes}}$$
+
+<!-- We will also see that for any sequence of mutually exclusive events:
+
+$$\Bbb{P}(\bigcup\limits_{i=1}^{\infty}E_i) = \sum\limits_{i=1}^{\infty} \Bbb{P}(E_i)$$ -->
 
 ## Inclusion-exclusion principle
 
-## Probability distribution -->
+Now combining the above two sections, we can determine how to calculate the probability of the union of two events. The obvious method here is to simply add the individual probabilities of each event together.
+
+$$\Bbb{P}(E_1 \cup E_2) = \Bbb{P}(E_1) + \Bbb{P}(E_2)$$
+
+Here is where we come across a problem where we have to account for whether the two events are mutually exclusive or not.
+
+![Disjoint events](disjoint-events.svg)
+
+![Overlap of two events](overlap-two-events.svg)
+
+We can see where there is overlap between the two events, this area is double counted. In order to account for this, we use a rule called the inclusion-exclusion principle:
+
+$$\Bbb{P}(E_1 \cup E_2) = \Bbb{P}(E_1) + \Bbb{P}(E_2) - \Bbb{P}(E_1 \cap E_2)$$
+
+This also shows us that for any sequence of mutually exclusive events:
+
+$$\Bbb{P}(\bigcup\limits_{i=1}^{n}E_i) = \sum\limits_{i=1}^{n} \Bbb{P}(E_i)$$
+
+<!-- ## Probability distribution -->
