@@ -2,7 +2,7 @@
   slug: introduction
   name: Introduction
   image: blank.jpg
-  visible: true
+  visible: false
 
 - type: topic
   slug: functions
