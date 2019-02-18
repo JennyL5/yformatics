@@ -1,16 +1,16 @@
 ## Introduction
 
-A discrete random varieble $X$ is a function from the sample space $S$ to a set of possible values $R$.
+A discrete random variable $X$ is a function from the sample space $S$ to a set of possible values $R$.
 
 $$X: S \rightarrow R$$
 
-Each of those possible values has a probability of occouring depending on the mappings from the sample space.
+Each of those possible values has a probability of occurring depending on the mappings from the sample space.
 
-For example...
+<!-- For example... -->
 
-## Proababiliy mass function
+## Probability mass function
 
-This is the function that determines the probability of a discrete random veriable $X$ having a certain value. The equation used to calculate this value will differ depending on the type of random variable.
+This is the function that determines the probability of a discrete random variable $X$ having a certain value. The equation used to calculate this value will differ depending on the type of random variable.
 
 $$p(x) = \Bbb{P}(X = k)$$
 
@@ -28,7 +28,7 @@ $$\Bbb{P}(X = k) = \dbinom{n}{k}p^k(1-p)^{n-k}$$
 
 ## Expected value
 
-In any given situation, we are able to calulate the value of a discrete random veriable $X$ that is expected. This value is like a weighted average
+In any given situation, we are able to calculate the value of a discrete random variable $X$ that is expected. This value is like a weighted average
 
 It is given by the equation below:
 
@@ -38,13 +38,13 @@ $$\Bbb{E}[X] = \sum\limits_{k=0}^{n} k\Bbb{P}(X = k)$$
 
 ## Variance & covariance
 
-The variance of a discrete random variable $X$ is a number which defines how much the possible values of $X$ differ from each other. It can be calulated using:
+The variance of a discrete random variable $X$ is a number which defines how much the possible values of $X$ differ from each other. It can be calculated using:
 
 $$Var[X] = \Bbb{E}[(X - \Bbb{E}[X])^2]$$
 
 $$= \Bbb{E}[X^2] - \Bbb{E}[X]^2$$
 
-The covariance, on the other hand, determines how much the possible values of two random variables $X$ and $Y$ differ from each other. It can be calulated using:
+The covariance, on the other hand, determines how much the possible values of two random variables $X$ and $Y$ differ from each other. It can be calculated using:
 
 $$Cov[X,Y] = \Bbb{E}[(X - \Bbb{E}[X])(Y - \Bbb{E}[Y])]$$
 
