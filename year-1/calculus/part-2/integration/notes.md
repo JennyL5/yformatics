@@ -5,3 +5,5 @@
 ## Defininite integrals
 
 ## Indefinite integrals
+
+## Proper & inproper intrgrals

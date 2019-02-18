@@ -17,19 +17,13 @@
   visible: true
 
 - type: topic
-  slug: random-variables
-  name: Random Variables
+  slug: discrete-random-variables
+  name: Discrete Random Variables
   image: blank.jpg
   visible: true
 
 - type: topic
-  slug: binomial-expansion
-  name: Binomial Expansion
+  slug: continuous-random-variables
+  name: Continuous Random Variables
   image: blank.jpg
-  visible: false
-
-- type: topic
-  slug: poisson-distribution
-  name: Poisson Distribution
-  image: blank.jpg
-  visible: false
+  visible: true
