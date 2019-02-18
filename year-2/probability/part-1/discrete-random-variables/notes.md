@@ -34,7 +34,9 @@ It is given by the equation below:
 
 $$\Bbb{E}[X] = \sum\limits_{k=0}^{n} k\Bbb{P}(X = k)$$
 
-<!-- ## Stirling’s approximation?? -->
+It is important to note that the above will change depending on the type of random variable you are working with. In other words, be careful when expanding $\Bbb{P}(X = k)$.
+
+## Stirling’s approximation
 
 ## Variance & covariance
 
@@ -54,8 +56,38 @@ As a side note, the standard deviation can be calculated by:
 
 $$SD(X) = \sqrt{Var[X]}$$
 
-<!-- ## Independent variables -->
+## Independent variables
 
-<!-- ## Poisson distribution
+You can determine if two random variables are independant. By definition, two random variables are independant if:
 
-The poisson distribution is an approximation of a binomial distribution, making it very similar. The key difference with poisson is that it can take into account a rate of some kind. -->
+$$\Bbb{P}(X = x_k, Y = y_j) = \Bbb{P}(X = x_k) \Bbb{P}(Y = y_j)$$
+
+Another was to examine this is to say two random variables are independant if:
+
+$$\Bbb{E}[XY] = \Bbb{E}[X]\Bbb{E}[Y]$$
+
+$$Cov[X,Y] = 0$$
+
+Be aware that this statment only works in one logical direction. It is not accurate to say that since $\Bbb{E}[XY] = \Bbb{E}[X]\Bbb{E}[Y]$ that that inplies that two random variables are independant.
+
+## Joint distribution
+
+table stuff
+
+## Poisson distribution
+
+The poisson distribution is an approximation of the binomial distribution, making it very similar. The key difference with poisson is that it can take into account a rate of some kind.
+
+$$\Bbb{P}(X = k) = \dfrac{λ^k}{k!}e^{-λ}$$
+
+Where:
+
+$$λ = np$$
+
+Some properties of this include:
+
+$\Bbb{E}[X] = λ$
+
+$\Bbb{E}[X^2] = λ^2 + λ$
+
+$Var[X] = λ$
