@@ -5,6 +5,12 @@
   visible: true
 
 - type: topic
+  slug: reccomendation-system
+  name: Reccomendation System
+  image: blank.jpg
+  visible: true
+
+- type: topic
   slug: clustering
   name: Clustering
   image: blank.jpg
