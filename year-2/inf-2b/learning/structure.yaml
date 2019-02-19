@@ -15,3 +15,9 @@
   name: Clustering
   image: clustering.jpg
   visible: true
+
+- type: topic
+  slug: classification
+  name: Classification
+  image: classification.jpg
+  visible: true

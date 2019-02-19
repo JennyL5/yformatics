@@ -9,3 +9,21 @@
   name: Linked Lists
   image: linked-lists.jpg
   visible: true
+
+- type: topic
+  slug: hashing
+  name: Hashing
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: merge-sort
+  name: Merge Sort
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: trees
+  name: Trees
+  image: blank.jpg
+  visible: true
