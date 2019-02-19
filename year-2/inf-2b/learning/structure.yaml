@@ -1,17 +1,17 @@
 - type: topic
   slug: expressing-data-as-vectors
   name: Expressing Data as Vectors
-  image: blank.jpg
+  image: expressing-data-as-vectors.jpg
   visible: true
 
 - type: topic
-  slug: reccomendation-system
-  name: Reccomendation System
-  image: blank.jpg
+  slug: reccomendation-systems
+  name: Reccomendation Systems
+  image: reccomendation-systems.jpg
   visible: true
 
 - type: topic
   slug: clustering
   name: Clustering
-  image: blank.jpg
+  image: clustering.jpg
   visible: true

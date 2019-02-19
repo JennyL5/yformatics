@@ -1,11 +1,11 @@
 - type: topic
   slug: measuring-runtime
   name: Measuring Runtime
-  image: blank.jpg
+  image: measuring-runtime.jpg
   visible: true
 
 - type: topic
   slug: linked-lists
   name: Linked Lists
-  image: blank.jpg
+  image: linked-lists.jpg
   visible: true
