@@ -1,25 +1,25 @@
 - type: topic
   slug: counting
   name: Counting
-  image: blank.jpg
+  image: counting.jpg
   visible: true
 
 - type: topic
   slug: axioms-of-probability
   name: Axioms of Probability
-  image: blank.jpg
+  image: axioms-of-probability.jpg
   visible: true
 
 - type: topic
   slug: conditional-probability
   name: Conditional Probability
-  image: blank.jpg
+  image: conditional-probability.jpg
   visible: true
 
 - type: topic
   slug: discrete-random-variables
   name: Discrete Random Variables
-  image: blank.jpg
+  image: discrete-random-variables.jpg
   visible: true
 
 - type: topic
