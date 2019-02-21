@@ -42,6 +42,7 @@ let render = data =>
             E.Div({ class: [`page-content`] })(
               E.Join(
                 data.children.map((child, n) => {
+                  child.children = child.children || [];
                   return E.Div({
                     class: [`pane`],
                     id: `pane-${n}`,

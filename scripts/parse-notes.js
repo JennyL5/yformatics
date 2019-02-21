@@ -48,7 +48,7 @@ const upload = async file => {
   if (!(await find(key))) {
     let uploader = client.uploadFile(params);
     uploader.on("end", function() {
-      console.log("Uploaded:", key);
+      // console.log("Uploaded:", key);
     });
   }
   return md5;
@@ -138,17 +138,19 @@ function parse(markdown, path) {
       node.lastChild.literal.endsWith("$$")
     ) {
       in_latex = false;
-      console.log(latex);
       var ne = new commonmark.Node("html_block", node.sourcepos);
-
+      console.log(latex);
       ne.literal = `<p style="text-align:center">${katex.renderToString(
-        latex.slice(2, -2)
+        String.raw`${latex.slice(2, -2)}`
       )}</p>`;
       node.insertBefore(ne);
       node.unlink();
     } else if (in_latex) {
-      console.log(node.type);
-      latex += node.literal ? node.literal : "";
+      if (node.type == "text") {
+        latex += node.literal;
+      } else if (node.type == "softbreak") {
+        latex += "\n";
+      }
     } else if (event.entering && node.type === "image") {
       let u = md5File.sync(`${path}/${node.destination}`);
       upload(`${path}/${node.destination}`);
@@ -199,7 +201,7 @@ function parse(markdown, path) {
         .map(part =>
           part.type == "html"
             ? part.literal
-            : katex.renderToString(part.literal)
+            : katex.renderToString(String.raw`${part.literal}`)
         )
         .join("");
       var ne = new commonmark.Node("html_block", node.sourcepos);
@@ -229,7 +231,7 @@ const read = (path, context) => {
         fs.readFileSync(`${root}${path}/structure.yaml`, "utf8")
       );
     } catch (e) {
-      console.log(e);
+      // console.log(e);
       return [];
     }
 

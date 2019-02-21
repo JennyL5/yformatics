@@ -92,8 +92,10 @@ $$λ = np$$
 
 Some properties of this include:
 
-$\Bbb{E}[X] = λ$
-
-$\Bbb{E}[X^2] = λ^2 + λ$
-
-$Var[X] = λ$
+$$
+\begin{aligned}
+\Bbb{E}[X] &= λ \\\\
+\Bbb{E}[X^2] &= λ^2 + λ \\\\
+Var[X] &= λ \\\\
+\end{aligned}
+$$
