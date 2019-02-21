@@ -28,4 +28,4 @@ As well as the cumulative distribution, we also define a function $f_x$ called t
 
 $$f_x = F'_x$$
 
-$$F_x = \int_{a}^{b} x^2 dx$$
+$$F_x = \displaystyle\int_{a}^{b} x^2 dx$$
