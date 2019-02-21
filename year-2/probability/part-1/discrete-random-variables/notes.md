@@ -66,11 +66,7 @@ By definition, two random variables $X, Y$ are independent if:
 
 $$\Bbb{P}(X = x_k, Y = y_j) = \Bbb{P}(X = x_k) \Bbb{P}(Y = y_j)$$
 
-<!-- Another way to examine this, using the equivalencies in the section above, is to say that if two random variables are independent then: -->
-
 An implication of this, using the equivalencies in the section above, is:
-
-<!-- $$\text{Independence} \Longleftrightarrow \Bbb{E}[XY] = \Bbb{E}[X]\Bbb{E}[Y]$$ -->
 
 $$\text{Independence} \Rightarrow Cov[X,Y] = 0$$
 
