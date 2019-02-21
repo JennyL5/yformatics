@@ -38,6 +38,10 @@ It is important to note that the above will change depending on the type of rand
 
 <!-- ## Stirling’s approximation -->
 
+<!-- ## Joint distribution
+
+table stuff -->
+
 ## Variance & covariance
 
 The variance of a discrete random variable $X$ is a number which defines how much the possible values of $X$ differ from each other. It can be calculated using:
@@ -58,29 +62,23 @@ $$SD(X) = \sqrt{Var[X]}$$
 
 ## Independent variables
 
-By definition, two random variables are independent if:
+By definition, two random variables $X, Y$ are independent if:
 
 $$\Bbb{P}(X = x_k, Y = y_j) = \Bbb{P}(X = x_k) \Bbb{P}(Y = y_j)$$
 
 <!-- Another way to examine this, using the equivalencies in the section above, is to say that if two random variables are independent then: -->
 
-Some implications of this, using the equivalencies in the section above, are:
+An implication of this, using the equivalencies in the section above, is:
 
-$$\text{Independence} \Longleftrightarrow \Bbb{E}[XY] = \Bbb{E}[X]\Bbb{E}[Y]$$
+<!-- $$\text{Independence} \Longleftrightarrow \Bbb{E}[XY] = \Bbb{E}[X]\Bbb{E}[Y]$$ -->
 
 $$\text{Independence} \Rightarrow Cov[X,Y] = 0$$
 
-However, be aware that this last statement only works in one logical direction.
+However, be aware that this statement only works in one logical direction.
 
-<!-- $$Cov[X,Y] = 0 \not\Rightarrow \text{Independence}$$ -->
+$$Cov[X,Y] = 0 \not\Rightarrow \text{Independence}$$
 
-<!-- $$Cov[X,Y] = 0$$ -->
-
-<!-- It is not accurate to say that since $\Bbb{E}[XY] = \Bbb{E}[X]\Bbb{E}[Y]$ that implies that two random variables are independent. -->
-
-<!-- ## Joint distribution
-
-table stuff -->
+$$\neq$$
 
 ## Poisson distribution
 
