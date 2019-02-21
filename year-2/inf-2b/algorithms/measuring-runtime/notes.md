@@ -58,7 +58,7 @@ The official definition is:
 
 $\text{Let } f, g: \Bbb{N} \rightarrow \Bbb{R} \text{ be functions. We say that } f \text{ is } \Omega(g) \text{ if there is some } n_0 \in \Bbb{N} \text{ and some } c \gt 0 \text{ from } \Bbb{R} \text{ such that for all } n \geq n_0 \text{ we have:}$
 
-$$0 \geq f(n) \geq cg(n)$$
+$$0 \leq cg(n) \leq f(n)$$
 
 Similar to big-O setting an upper bound, this tells us the growth rate of the runtime of an algorithm $f$ is no less than that of $g$. Big-$\Omega$ sets a lower bound.
 
