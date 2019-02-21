@@ -76,10 +76,6 @@ $$\text{Independence} \Rightarrow Cov[X,Y] = 0$$
 
 However, be aware that this statement only works in one logical direction.
 
-$$Cov[X,Y] = 0 \not\Rightarrow \text{Independence}$$
-
-$$\neq$$
-
 ## Poisson distribution
 
 The poisson distribution is an approximation of the binomial distribution, making it very similar. The key difference with poisson is that it can take into account a rate of some kind.
