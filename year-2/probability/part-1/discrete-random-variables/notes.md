@@ -46,15 +46,21 @@ table stuff -->
 
 The variance of a discrete random variable $X$ is a number which defines how much the possible values of $X$ differ from each other. It can be calculated using:
 
-$$Var[X] = \Bbb{E}[(X - \Bbb{E}[X])^2]$$
-
-$$= \Bbb{E}[X^2] - \Bbb{E}[X]^2$$
+$$
+\begin{aligned}
+Var[X] &= \Bbb{E}[(X - \Bbb{E}[X])^2] \\\\
+&= \Bbb{E}[X^2] - \Bbb{E}[X]^2
+\end{aligned}
+$$
 
 The covariance, on the other hand, determines how much the possible values of two random variables $X$ and $Y$ differ from each other. It can be calculated using:
 
-$$Cov[X,Y] = \Bbb{E}[(X - \Bbb{E}[X])(Y - \Bbb{E}[Y])]$$
-
-$$= \Bbb{E}[XY] - \Bbb{E}[X]\Bbb{E}[Y]$$
+$$
+\begin{aligned}
+Cov[X,Y] &= \Bbb{E}[(X - \Bbb{E}[X])(Y - \Bbb{E}[Y])] \\\\
+&= \Bbb{E}[XY] - \Bbb{E}[X]\Bbb{E}[Y]
+\end{aligned}
+$$
 
 As a side note, the standard deviation can be calculated by:
 
