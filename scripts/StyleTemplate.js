@@ -70,11 +70,11 @@ ${data
 
       }
     }
-
+   
    
     `;
 
 module.exports = data =>
-  `<style>${
-    data ? dynamic(data) : ""
+  `<style>${data ? dynamic(data) : ""} .katex .strut {
+    vertical-align:initial !important;
   }</style><style>${katex}${normalise}${typekit}${base}${card}${page}</style>`;
