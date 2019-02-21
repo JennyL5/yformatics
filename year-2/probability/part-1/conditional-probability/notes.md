@@ -16,6 +16,10 @@ This also affects conditional probability calculations, if $E$ and $F$ are indep
 
 $$\Bbb{P}(E|F) = \dfrac{\Bbb{P}(E \cap F)}{\Bbb{P}(F)} = \Bbb{P}(E)$$
 
+## Sequence of events
+
+## Law of total probability
+
 ## Bayes theorem
 
 $$\Bbb{P}(E|F) = \dfrac{\Bbb{P}(F|E)\Bbb{P}(E)}{\Bbb{P}(F)}$$

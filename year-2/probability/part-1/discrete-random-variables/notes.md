@@ -36,7 +36,7 @@ $$\Bbb{E}[X] = \sum\limits_{k=0}^{n} k\Bbb{P}(X = k)$$
 
 It is important to note that the above will change depending on the type of random variable you are working with. In other words, be careful when expanding $\Bbb{P}(X = k)$.
 
-## Stirling’s approximation
+<!-- ## Stirling’s approximation -->
 
 ## Variance & covariance
 
@@ -58,21 +58,23 @@ $$SD(X) = \sqrt{Var[X]}$$
 
 ## Independent variables
 
-You can determine if two random variables are independant. By definition, two random variables are independant if:
+By definition, two random variables are independent if:
 
 $$\Bbb{P}(X = x_k, Y = y_j) = \Bbb{P}(X = x_k) \Bbb{P}(Y = y_j)$$
 
-Another was to examine this is to say two random variables are independant if:
+Another way to examine this, using the equivalencies in the section above, is to say two random variables are independent if:
 
 $$\Bbb{E}[XY] = \Bbb{E}[X]\Bbb{E}[Y]$$
 
 $$Cov[X,Y] = 0$$
 
-Be aware that this statment only works in one logical direction. It is not accurate to say that since $\Bbb{E}[XY] = \Bbb{E}[X]\Bbb{E}[Y]$ that that inplies that two random variables are independant.
+Be aware that this statement only works in one logical direction.
 
-## Joint distribution
+<!-- It is not accurate to say that since $\Bbb{E}[XY] = \Bbb{E}[X]\Bbb{E}[Y]$ that implies that two random variables are independent. -->
 
-table stuff
+<!-- ## Joint distribution
+
+table stuff -->
 
 ## Poisson distribution
 

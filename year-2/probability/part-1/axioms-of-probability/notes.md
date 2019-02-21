@@ -50,6 +50,12 @@ $$E^c = \\{1,3,5\\}$$
 
 ![Composite event](composite-event.svg)
 
+## Bernoulli trials
+
+A Bernoulli trial is a random experiment with exactly two possible outcomes. These are often referred to as 'success' and 'failure' but this is just notation for one outcome happening over the other.
+
+For example, in the case of a fair coin flip. The event that the coin lands heads could be counted as a success and the opposite would be a failure. Other examples of Bernoulli trials include a die roll where one number is a success and all others are a failure, or picking the top card out of a shuffled deck where one particular card or any card of one particular suit is a success and all others are a failure.
+
 ## Calculating probability
 
 The probability $\Bbb{P}$ of an event is a measure of how likely it is that a given event will occour. This is a number defined for each event between 0 and 1.
