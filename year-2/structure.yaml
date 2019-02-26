@@ -17,11 +17,11 @@
   name: Inf 2D
   colour: "#66BB6A"
   image: Inf_2D.svg
-  visible: true
+  visible: false
 
 - type: subject
   slug: fide
   name: FIDE
   colour: "#7E57C2"
   image: FIDE.svg
-  visible: true
+  visible: false
