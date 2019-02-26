@@ -8,20 +8,20 @@
 - type: subject
   slug: inf-2b
   name: Inf 2B
-  colour: "#03A9F4"
+  colour: "#f44336"
   image: Inf_2B.svg
   visible: true
-
-- type: subject
-  slug: fide
-  name: FIDE
-  colour: "#66BB6A"
-  image: FIDE.svg
-  visible: false
 
 - type: subject
   slug: inf-2d
   name: Inf 2D
   colour: "#66BB6A"
   image: Inf_2D.svg
-  visible: false
+  visible: true
+
+- type: subject
+  slug: fide
+  name: FIDE
+  colour: "#7E57C2"
+  image: FIDE.svg
+  visible: true
