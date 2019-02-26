@@ -27,3 +27,9 @@
   name: Trees
   image: blank.jpg
   visible: true
+
+- type: topic
+  slug: heaps-and-priority-queues
+  name: Heaps & Priority Queues
+  image: blank.jpg
+  visible: true

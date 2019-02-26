@@ -65,5 +65,3 @@ Similar to big-O setting an upper bound, this tells us the growth rate of the ru
 ## Big-Θ notation
 
 Now that you can work out the upper and lower bounds of a given algorithm, there is one more notation to be aware of. An algorithm $f$ is said to be $\Theta(g)$ if $f = O(g)$ and $f = \Omega(g)\$.
-
-<!-- $$\Theta(g) \Longleftrightarrow O(g) \land \Omega(g)$$ -->

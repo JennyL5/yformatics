@@ -21,3 +21,15 @@
   name: Classification
   image: classification.jpg
   visible: true
+
+- type: topic
+  slug: text-recognition
+  name: Text Recognition
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: distributions
+  name: Distributions
+  image: blank.jpg
+  visible: true
