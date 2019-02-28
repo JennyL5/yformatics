@@ -13,19 +13,19 @@
 - type: topic
   slug: hashing
   name: Hashing
-  image: blank.jpg
+  image: hashing.jpg
   visible: true
 
 - type: topic
-  slug: merge-sort
-  name: Merge Sort
-  image: blank.jpg
+  slug: sorting-algorithms
+  name: Sorting Algorithms
+  image: sorting-algorithms.jpg
   visible: true
 
 - type: topic
   slug: trees
   name: Trees
-  image: blank.jpg
+  image: trees.jpg
   visible: true
 
 - type: topic

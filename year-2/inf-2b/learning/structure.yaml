@@ -25,11 +25,11 @@
 - type: topic
   slug: text-recognition
   name: Text Recognition
-  image: blank.jpg
+  image: text-recognition.jpg
   visible: true
 
 - type: topic
   slug: distributions
   name: Distributions
-  image: blank.jpg
+  image: distributions.jpg
   visible: true
