@@ -1,19 +1,19 @@
 - type: topic
   slug: integration
   name: Integration
-  image: blank.jpg
+  image: integration.jpg
   visible: true
 
 - type: topic
   slug: fundamental-theorem-of-calculus
   name: Fundamental Theorem of Calculus
-  image: blank.jpg
+  image: fundamental-theorem-of-calculus.jpg
   visible: true
 
 - type: topic
   slug: trigonometric-integrals
   name: Trigonometric Integrals
-  image: blank.jpg
+  image: trigonometric-integrals.jpg
   visible: true
 
 - type: topic
