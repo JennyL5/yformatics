@@ -11,6 +11,18 @@
   visible: true
 
 - type: topic
+  slug: trigonometric-integrals
+  name: Trigonometric Integrals
+  image: blank.jpg
+  visible: true
+
+- type: topic
+  slug: partial-fractions
+  name: Partial Fractions
+  image: blank.jpg
+  visible: true
+
+- type: topic
   slug: sequences
   name: Sequences
   image: blank.jpg

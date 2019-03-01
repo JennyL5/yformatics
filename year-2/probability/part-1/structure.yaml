@@ -27,3 +27,9 @@
   name: Continuous Random Variables
   image: continuous-random-variables.jpg
   visible: true
+
+- type: topic
+  slug: conditional-distributions
+  name: Conditional Distributions
+  image: blank.jpg
+  visible: true
