@@ -29,7 +29,13 @@
   visible: true
 
 - type: topic
+  slug: continuous-joint-distributions
+  name: Continuous Joint Distributions
+  image: blank.jpg
+  visible: true
+
+- type: topic
   slug: conditional-distributions
   name: Conditional Distributions
   image: blank.jpg
-  visible: true
+  visible: false
