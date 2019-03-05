@@ -29,6 +29,12 @@
   visible: true
 
 - type: topic
+  slug: hazard-rate-functions
+  name: Hazard Rate Functions
+  image: blank.jpg
+  visible: true
+
+- type: topic
   slug: continuous-joint-distributions
   name: Continuous Joint Distributions
   image: continuous-joint-distributions.jpg
@@ -37,5 +43,5 @@
 - type: topic
   slug: conditional-distributions
   name: Conditional Distributions
-  image: blank.jpg
-  visible: false
+  image: conditional-distributions.jpg
+  visible: true
