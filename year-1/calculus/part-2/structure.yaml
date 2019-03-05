@@ -23,6 +23,12 @@
   visible: true
 
 - type: topic
+  slug: convergence-and-divergence
+  name: Convergence & Divergence
+  image: blank.jpg
+  visible: true
+
+- type: topic
   slug: sequences
   name: Sequences
   image: blank.jpg

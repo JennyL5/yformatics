@@ -4,9 +4,13 @@ Suppose a traveling salesman was traveling along a path between 4 cities. They s
 
 The answer is given by:
 
-$$n = n_1 \times n_2 \times n_3 \times n_4$$
-
-$$= 3 \times 4 \times 5 = 60$$
+$$
+\begin{aligned}
+n &= n_1 \times n_2 \times n_3 \times n_4 \\\\
+&= 3 \times 4 \times 5 \\\\
+&= 60
+\end{aligned}
+$$
 
 We can formalise this with:
 
@@ -24,21 +28,25 @@ Consider a 7 digit car registration plate. The first 3 characters are letters an
 
 There are 26 letters in the alphabet and 10 single digit numbers so the total number of possible plates in this case is given by:
 
-$$n = n_1 \times n_2 \times n_3 \times n_4 \times n_5 \times n_6 \times n_7$$
-
-$$= 26 \times 26 \times 26 \times 10 \times 10 \times 10 \times 10$$
-
-$$= 175,760,000$$
+$$
+\begin{aligned}
+n &= n_1 \times n_2 \times n_3 \times n_4 \times n_5 \times n_6 \times n_7 \\\\
+&= 26 \times 26 \times 26 \times 10 \times 10 \times 10 \times 10 \\\\
+&= 175,760,000
+\end{aligned}
+$$
 
 Consider a 7 digit car registration plate. The first 3 characters are letters and the last 4 characters are numbers. Suppose now that repetition of characters is not allowed.
 
 There are 26 letters in the alphabet and 10 single digit numbers but this time we need to decrease the number we have to pick from for each new character as one is used. So the total number of possible plates in this case is given by:
 
-$$n = n_1 \times n_2 \times n_3 \times n_4 \times n_5 \times n_6 \times n_7$$
-
-$$= 26 \times 25 \times 24 \times 10 \times 9 \times 8 \times 7$$
-
-$$= 78,624,000$$
+$$
+\begin{aligned}
+n &= n_1 \times n_2 \times n_3 \times n_4 \times n_5 \times n_6 \times n_7 \\\\
+&= 26 \times 25 \times 24 \times 10 \times 9 \times 8 \times 7 \\\\
+&= 78,624,000
+\end{aligned}
+$$
 
 You can see by comparing these two examples the massive difference in the final answer that simply allowing repetition causes.
 
@@ -75,13 +83,14 @@ $m_3 = 2 \times 1 = 2!$ (history)
 
 $m_4 = 1 = 1!$ (language)
 
-$$n = n_1 \times n_2$$
-
-$$= n_1 \times m_1 \times m_2 \times m_3 \times m_4$$
-
-$$= 4 \times 4! \times 3! \times 2! \times 1!$$
-
-$$= 6912$$
+$$
+\begin{aligned}
+n &= n_1 \times n_2 \\\\
+&= n_1 \times m_1 \times m_2 \times m_3 \times m_4 \\\\
+&= 4 \times 4! \times 3! \times 2! \times 1! \\\\
+&= 6912
+\end{aligned}
+$$
 
 <br>
 
@@ -109,11 +118,15 @@ Where r is the number of distinct objects.
 
 So in this example:
 
-$$n = \dfrac{9!}{4!3!2!}$$
-
-$$n = \dfrac{362880}{288}$$
-
-$$n = 1260$$
+$$
+\begin{aligned}
+n &= \dfrac{9!}{4!3!2!} \\\\
+\\\\
+&= \dfrac{362880}{288} \\\\
+\\\\
+&= 1260
+\end{aligned}
+$$
 
 ## Permutations
 
@@ -129,12 +142,16 @@ $$\dbinom{n}{k} = \dfrac{n!}{k!(n-k)!}$$
 
 For this example we have two distinct categories to pick objects from.
 
-$$n = \dbinom{5}{3} \dbinom{7}{3}$$
-
-$$= \dfrac{5!}{3!(5-3)!} \times \dfrac{7!}{3!(7-3)!}$$
-
-$$= \dfrac{5!}{3!2!} \times \dfrac{7!}{3!4!}$$
-
-$$= 10 \times 35$$
-
-$$= 350$$
+$$
+\begin{aligned}
+n &= \dbinom{5}{3} \dbinom{7}{3} \\\\
+\\\\
+&= \dfrac{5!}{3!(5-3)!} \times \dfrac{7!}{3!(7-3)!} \\\\
+\\\\
+&= \dfrac{5!}{3!2!} \times \dfrac{7!}{3!4!} \\\\
+\\\\
+&= 10 \times 35 \\\\
+\\\\
+&= 350
+\end{aligned}
+$$
