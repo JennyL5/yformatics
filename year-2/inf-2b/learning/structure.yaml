@@ -33,3 +33,9 @@
   name: Distributions
   image: distributions.jpg
   visible: true
+
+- type: topic
+  slug: decision-regions
+  name: Decision Regions
+  image: blank.jpg
+  visible: true

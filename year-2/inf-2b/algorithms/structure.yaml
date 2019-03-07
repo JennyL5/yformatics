@@ -33,3 +33,9 @@
   name: Heaps & Priority Queues
   image: blank.jpg
   visible: true
+
+- type: topic
+  slug: graphs
+  name: Graphs
+  image: blank.jpg
+  visible: true
