@@ -29,6 +29,12 @@
   visible: true
 
 - type: topic
+  slug: applications
+  name: Applications
+  image: blank.jpg
+  visible: true
+
+- type: topic
   slug: sequences
   name: Sequences
   image: blank.jpg
