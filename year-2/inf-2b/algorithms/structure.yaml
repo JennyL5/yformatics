@@ -5,9 +5,9 @@
   visible: true
 
 - type: topic
-  slug: linked-lists
-  name: Linked Lists
-  image: linked-lists.jpg
+  slug: sequential-data-structures
+  name: Sequential Data Structures
+  image: sequential-data-structures.jpg
   visible: true
 
 - type: topic

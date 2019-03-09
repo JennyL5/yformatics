@@ -40,14 +40,16 @@ Another ADT you need to know is a queue. This is a first-in-first-out (FIFO) lis
 
 A queue can also be implemented with either an array or linked list where all methods have a worst-case runtime of O(1).
 
-<!-- ## Arrays
+## Arrays
 
-Arrays are one ADT that you know from many popular programming languages. This stores the data in a sequential list that can be indexed into in order to access any element.
+Arrays are one ADT that you know from many popular programming languages. These store the data in a sequential list that can be indexed into in order to access any element.
 
-There are two types of array, static and dynamic. Static arrays have a fixed length when they are initialised and cannot be extended. Dynamic arrays can grow and shrink to accommodate any needed memory size.
+There are two types of array, static and dynamic. Static arrays have a fixed length when they are initialised and cannot be extended.
 
 ## Linked lists
 
-## Vectors -->
+## Vectors
+
+## Amortised analysis
 
 <!-- ## Dynamic Arrays -->
