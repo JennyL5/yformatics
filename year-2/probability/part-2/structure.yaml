@@ -1,0 +1,11 @@
+- type: topic
+  slug: conditional-distributions
+  name: Conditional Distributions
+  image: conditional-distributions.jpg
+  visible: true
+
+- type: topic
+  slug: expectation
+  name: Expectation
+  image: blank.jpg
+  visible: true

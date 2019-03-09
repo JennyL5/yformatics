@@ -39,9 +39,3 @@
   name: Continuous Joint Distributions
   image: continuous-joint-distributions.jpg
   visible: true
-
-- type: topic
-  slug: conditional-distributions
-  name: Conditional Distributions
-  image: conditional-distributions.jpg
-  visible: true
