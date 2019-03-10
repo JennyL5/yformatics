@@ -38,7 +38,7 @@ function mergeSort(A, i, j)
         merge(A, i, mid, j)
 ```
 
-where
+This requires an extra function to actually do the merging.
 
 ```
 function merge(A, i, mid, j)

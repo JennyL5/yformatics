@@ -67,6 +67,11 @@
 .note img {
   width: 100%;
 }
+pre {
+  background: #eaeaea;
+  padding: 16px;
+  border-radius: 4px;
+}
 .page-container {
   background: #fafafa;
 }
