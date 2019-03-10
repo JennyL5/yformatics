@@ -1,12 +1,14 @@
 ## Introduction
 
-Many computing problems often involve working with some kind of data and in many cases that data will need sorted. As algorthms used for this can deal with huge quantities of data, there is a huge efficiency benifit in using one method over another.
+Many computing problems often involve working with some kind of data and in many cases that data will need to be sorted. As algorithms used for this can deal with huge quantities of data, there is a huge efficiency benefit in using one method over another.
 
-This topic will look at some specific algorthims and in particular the principle of 'divide and conquer'. Be aware that heap sort and quick sort may require you to cover the later topic on heaps and priority queues.
+This topic will look at some specific algorithms and in particular the principle of 'divide and conquer'. Be aware that heap sort and quick sort may require you to cover the later topic on heaps and priority queues.
+
+For all of these algorithms, we assume that the data is supplied in an array which we call A with length n.
 
 ## Insertion sort
 
-Description
+To begin with, we will look at a simpler sorting algorithm which does not apply the divide and conquer principle. You will likely have seen insertion sort before, if not used it in your code.
 
 ```
 function insertionSort(A)
@@ -19,9 +21,13 @@ function insertionSort(A)
         A[i + 1] = a
 ```
 
+The asymptotic worst-case runtime of insertion sort is $\Theta(n^2)$.
+
 ## Merge sort
 
-Description
+Merge sort takes a very different approach to sorting. It splits the array to be sorted into halves, sorts both halves recursively, and then merges the two sorted subarrays together into one fully sorted array. This is an example of a divide and conquer method.
+
+In order to make the recursion part possible, we need to add two additional arguments $i$ and $j$ to set the boundaries of the subarrays to be sorted.
 
 ```
 function mergeSort(A, i, j)
@@ -59,6 +65,8 @@ function merge(A, i, mid, j)
     for (m = 0 to j - 1) do
         A[m + 1] = B[m]
 ```
+
+The asymptotic worst-case runtime of merge sort is $\Theta(n \text{ } lg(n))$.
 
 ## Max sort
 
