@@ -9,3 +9,9 @@
   name: Expectation
   image: blank.jpg
   visible: true
+
+- type: topic
+  slug: inequalities-and-limit-theorems
+  name: Inequalities & Limit Theorems
+  image: blank.jpg
+  visible: true

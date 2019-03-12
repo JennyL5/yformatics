@@ -8,7 +8,7 @@ In its simplest form, the area between two curves in the positive plane is given
 
 These two functions cross at (1,2) and (4,5). This is important to take into account to ensure you are only calculating area within the bounds you are looking at.
 
-$$\text{Area of X} = \displaystyle\int_{1}^{4} -x^2 + 6x - 3 - \displaystyle\int_{1}^{4} x^2 - 4x + 5$$
+$$\text{Area of X} = \displaystyle\int_{1}^{4} -x^2 + 6x - 3 \text{ } dx - \displaystyle\int_{1}^{4} x^2 - 4x + 5 \text{ } dx$$
 
 ## Volume
 
