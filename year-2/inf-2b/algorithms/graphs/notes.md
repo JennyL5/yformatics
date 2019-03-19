@@ -49,3 +49,7 @@ using a stack (lifo)
 recursive
 
 runtime
+
+## Connected components
+
+## Topological order
