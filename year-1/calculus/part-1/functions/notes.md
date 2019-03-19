@@ -64,4 +64,6 @@ $$(f \circ g)(x) = f(g(x))$$
 
 Be aware of the order in which this is read, the functions are applied from right to left. Just remember the one closest to the $x$ is always applied first.
 
-<!-- ## Piecewise functions -->
+<!-- ## Piecewise functions
+
+## Increasing & decreasing-->
