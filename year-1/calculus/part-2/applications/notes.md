@@ -10,8 +10,6 @@ These two functions cross at (1,2) and (4,5). This is important to take into acc
 
 $$\text{Area of X} = \displaystyle\int_{1}^{4} -x^2 + 6x - 3 \text{ } dx - \displaystyle\int_{1}^{4} x^2 - 4x + 5 \text{ } dx$$
 
+## Cross sections
+
 ## Volume
-
-## Arc length
-
-## Differential equations?
