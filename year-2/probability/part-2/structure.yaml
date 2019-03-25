@@ -21,3 +21,9 @@
   name: Discrete Markov Chains
   image: blank.jpg
   visible: true
+
+- type: topic
+  slug: continuous-markov-chains
+  name: Continuous Markov Chains
+  image: blank.jpg
+  visible: true
