@@ -24,4 +24,4 @@
   name: FIDE
   colour: "#7E57C2"
   image: FIDE.svg
-  visible: false
+  visible: true
