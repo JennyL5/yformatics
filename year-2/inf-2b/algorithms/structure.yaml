@@ -39,3 +39,9 @@
   name: Graphs
   image: graphs.jpg
   visible: true
+
+- type: topic
+  slug: indexing-and-queries
+  name: Indexing & Queries
+  image: blank.jpg
+  visible: true
