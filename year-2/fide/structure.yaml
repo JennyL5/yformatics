@@ -1,5 +1,4 @@
 - type: unit
-  slug: part-1
-  name: Part 1
+  slug: course
+  name: Course
   visible: true
-  
