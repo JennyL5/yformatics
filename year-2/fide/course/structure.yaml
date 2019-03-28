@@ -33,3 +33,9 @@
   name: Journey & Leadership
   image: blank.jpg
   visible: true
+
+- type: topic
+  slug: venture-growth
+  name: Venture Growth
+  image: blank.jpg
+  visible: true
