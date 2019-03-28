@@ -1,41 +1,41 @@
 - type: topic
   slug: entrepreneurial-characteristics
   name: Entrepreneurial Characteristics
-  image: blank.jpg
+  image: entrepreneurial-characteristics.jpg
   visible: true
 
 - type: topic
   slug: entrepreneurial-contexts
   name: Entrepreneurial Contexts
-  image: blank.jpg
+  image: entrepreneurial-contexts.jpg
   visible: true
 
 - type: topic
   slug: identifying-opportunity
   name: Identifying Opportunity
-  image: blank.jpg
+  image: identifying-opportunity.jpg
   visible: true
 
 - type: topic
   slug: resources
   name: Resources
-  image: blank.jpg
+  image: resources.jpg
   visible: true
 
 - type: topic
   slug: business-models
   name: Business Models
-  image: blank.jpg
+  image: business-models.jpg
   visible: true
 
 - type: topic
   slug: journey-and-leadership
   name: Journey & Leadership
-  image: blank.jpg
+  image: journey-and-leadership.jpg
   visible: true
 
 - type: topic
   slug: venture-growth
   name: Venture Growth
-  image: blank.jpg
+  image: venture-growth.jpg
   visible: true
