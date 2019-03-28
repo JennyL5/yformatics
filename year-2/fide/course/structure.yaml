@@ -39,3 +39,9 @@
   name: Venture Growth
   image: venture-growth.jpg
   visible: true
+
+- type: topic
+  slug: outcomes-and-exits
+  name: Outcomes & Exits
+  image: outcomes-and-exits.jpg
+  visible: true
