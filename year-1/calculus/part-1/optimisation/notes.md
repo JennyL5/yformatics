@@ -1,6 +1,6 @@
 ## Introduction
 
-The basic principle behind optimisation is quite simple. You are given some kind of shape with two properties such as height and volume. Your job is to find the value of one at which the other is maximised.
+The basic principle behind optimisation is quite simple. You are given some kind of shape with two properties, such as height and volume. Your job is to find the value of one at which the other is maximised.
 
 This can often be quite conceptually confusing, but if you follow a structured working and keep referring the problem back to finding the global maximum of functions then complexity can often be reduced.
 
