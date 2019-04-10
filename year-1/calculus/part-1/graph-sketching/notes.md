@@ -79,13 +79,13 @@ f(x + 2\pi) &= ln(sin(x + 2\pi)) \\\\
 \end{aligned}
 $$
 
-<!-- A function is odd if $f(-x) = -f(x)$ and even if $f(-x) = f(x)$.
+A function is odd if $f(-x) = -f(x)$ and even if $f(-x) = f(x)$.
 
-One way to determine this is to simply compute these equalities. However, in this case there is an easier and quicker method. We can draw out the domain we have already calculated and see if there is any symmetry in that. -->
+One way to determine this is to simply compute these equalities. However, in this case there is an easier and quicker method. We can draw out the domain we have already calculated and see if there is any symmetry in that.
 
-<!-- Image -->
+![Ranges of domain](ranges-of-domain.svg)
 
-<!-- As there is no symmetry with respect to the origin, we can say this funcion is neither odd nor even. -->
+As there is no symmetry with respect to the origin, we can say this funcion is neither odd nor even.
 
 ## Asymptotes
 
