@@ -51,7 +51,8 @@ As the similar name suggests, definite integrals are merely the opposite of inde
 $$
 \begin{aligned}
 \displaystyle\int_{a}^{b} x^2 \\, \\, dx &= \Big[ \\, 2x \\, \Big]_{a}^{b} \\\\
-&= \Big[ \\, 2(b) \\, \Big] - \Big[ \\, 2(a) \\, \Big]
+&= \Big[ \\, 2(b) \\, \Big] - \Big[ \\, 2(a) \\, \Big] \\\\
+&= 2b - 2a
 \end{aligned}
 $$
 
