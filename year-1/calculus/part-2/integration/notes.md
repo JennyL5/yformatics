@@ -66,6 +66,18 @@ This works with both positive and negative $y$ values, just be aware that if the
 
 ## Riemann sums
 
-Another way to work out the area under a graph is to approximate it with rectangles.
+Another way to work out the area under a graph is to approximate it with rectangles. With this method, the area is split into $n$ vertical segments which meet the curve at either left, center or right endpoints.
+
+![Rectangles estimation](rectangles.svg)
+
+The area of the region under the graph of a continuous function is the limit of the sum of the areas of approximating rectangles:
+
+$$A = \displaystyle\lim_{x \to \infty} \displaystyle\sum\limits_{k=1}^{n} f(x_k)\Delta x$$
+
+Where each f(x) is the point at which each rectangle meets each rectangle and $\Delta x$ is the width of each rectangle which can be calculated by:
+
+$$\Delta x = \dfrac{b - a}{n}$$
+
+The chosen value of $n$ determines the accuracy of the approximation, the higher the value the more accurate it will be.
 
 <!-- ## Proper & inproper intrgrals -->
