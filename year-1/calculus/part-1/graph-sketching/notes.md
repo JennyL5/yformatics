@@ -18,7 +18,7 @@ Although you may not have an instinctual idea for how to sketch complex function
 
 Once all of this information is found, sketching the graph is just a matter of putting it all together. Each of the steps is outlined in more detail below.
 
-## Example Question
+## Example question
 
 In order to demonstrate each step in the process, let's look at a specific example.
 

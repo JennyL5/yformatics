@@ -7,23 +7,23 @@
 - type: topic
   slug: differential-equations
   name: Differential equations
-  image: blank.jpg
+  image: differential-equations.jpg
   visible: true
 
 - type: topic
   slug: direction-fields
   name: Direction Fields
-  image: blank.jpg
+  image: direction-fields.jpg
   visible: true
 
 - type: topic
   slug: sequences
   name: Sequences
-  image: blank.jpg
+  image: sequences.jpg
   visible: true
 
 - type: topic
   slug: series
   name: Series
-  image: blank.jpg
+  image: series.jpg
   visible: true

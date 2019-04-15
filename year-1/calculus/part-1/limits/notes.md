@@ -36,6 +36,14 @@ When calculating limits there are 8 rules that can make them much easier to deal
 
 8. $\displaystyle\lim_{x \to a} x = a$
 
-<!-- ## Calculating limits
+## Calculating limits
 
-3 techniques -->
+3 techniques
+
+- Direct subsitution
+- Common factors
+- something
+
+## L'hopitals rule
+
+## The squeeze theorem

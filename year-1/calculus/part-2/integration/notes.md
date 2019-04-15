@@ -56,4 +56,8 @@ $$
 \end{aligned}
 $$
 
+## Area under a graph
+
+## Riemann sums
+
 <!-- ## Proper & inproper intrgrals -->
