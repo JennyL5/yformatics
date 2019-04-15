@@ -22,9 +22,9 @@ $$u = x$$
 
 $$\dfrac{du}{dx} = 1$$
 
-3. Isolate $dx$ so that both it and your chosen function of $x$ can be substituted.
+3. Isolate $du$ so that both it and your chosen function of $u$ can be substituted in.
 
-$$dx = du$$
+$$du = dx$$
 
 $$\displaystyle\int u \\, \\, du$$
 
@@ -74,7 +74,7 @@ The area of the region under the graph of a continuous function is the limit of 
 
 $$A = \displaystyle\lim_{x \to \infty} \displaystyle\sum\limits_{k=1}^{n} f(x_k)\Delta x$$
 
-Where each f(x) is the point at which each rectangle meets each rectangle and $\Delta x$ is the width of each rectangle which can be calculated by:
+Where each $f(x)$ is the point at which each rectangle meets each rectangle and $\Delta x$ is the width of each rectangle which can be calculated by:
 
 $$\Delta x = \dfrac{b - a}{n}$$
 
