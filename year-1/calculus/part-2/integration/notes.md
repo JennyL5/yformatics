@@ -58,14 +58,14 @@ $$
 
 ## Area under a graph
 
-Throughout your mathematical jounrey, you will have determined the area of many different types of shapes. However, there are no easy formualas when you have a shape with curves. Instead, we must model the edges as equations and then find the area under that graph. Using definite integrals, you can find the area between the graph and the x-axis within those bounds.
+Throughout your mathematical journey, you will have determined the area of many different types of shapes. However, there are no easy formulas when you have a shape with curves. Instead, we must model the edges as equations and then find the area under that graph. Using definite integrals, you can find the area between the graph and the x-axis within those bounds.
 
 ![Area under graph](area-under-graph.svg)
 
-This works with both positive and negative $y$ values, just be aware if the curve crosses the x-axis then the positive and negative area will begin to cancel each other.
+This works with both positive and negative $y$ values, just be aware that if the curve crosses the x-axis then the positive and negative area will begin to cancel each other.
 
 ## Riemann sums
 
-Another way to work out the area under a graph is to approximate it with retangles.
+Another way to work out the area under a graph is to approximate it with rectangles.
 
 <!-- ## Proper & inproper intrgrals -->
