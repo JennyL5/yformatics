@@ -10,7 +10,7 @@ Suppose a continuous function $f(x) \neq 0 \forall x \in [a,b]$.
 
 This implies that:
 
-$$\displaystyle\int_{a}^{b} f(x) dx \ne 0$$
+$$\displaystyle\int_{a}^{b} f(x) dx = \not 0$$
 
 Since $f$ is continuous and does not cross 0 we can see:
 
