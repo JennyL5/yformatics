@@ -66,4 +66,6 @@ This works with both positive and negative $y$ values, just be aware if the curv
 
 ## Riemann sums
 
+Another way to work out the area under a graph is to approximate it with retangles.
+
 <!-- ## Proper & inproper intrgrals -->
