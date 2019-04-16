@@ -6,14 +6,14 @@ The following will be laid out randomly until we find a good structure to put it
 
 1.
 
-Suppose a continuous function $f(x) \neq 0 \forall x \in [a,b]$.
+Suppose a continuous function $f(x) = \not 0 \\, \\, \forall x \in [a,b]$.
 
 This implies that:
 
-$$\displaystyle\int_{a}^{b} f(x) dx = \not 0$$
+$$\displaystyle\int_{a}^{b} f(x) \\, \\, dx = \not 0$$
 
 Since $f$ is continuous and does not cross 0 we can see:
 
-- if $f(x) \gt 0 \forall x \in [a,b]$ then $\displaystyle\int_{a}^{b} f(x) dx \gt 0$.
+- if $f(x) \gt 0 \forall x \in [a,b]$ then $\displaystyle\int_{a}^{b} f(x) \\, \\, dx \gt 0$.
 
-- if $f(x) \lt 0 \forall x \in [a,b]$ then $\displaystyle\int_{a}^{b} f(x) dx \lt 0$.
+- if $f(x) \lt 0 \forall x \in [a,b]$ then $\displaystyle\int_{a}^{b} f(x) \\, \\, dx \lt 0$.

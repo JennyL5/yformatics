@@ -12,7 +12,7 @@ $$\dfrac{1}{x(x-1)}$$
 
 Then we can more easily see that the denominator will be 0 when $x = 0$ or $x = 1$. Therefore, the domain of $f$ can be written in either of the following notations:
 
-$$f \text{ is defined on } \\{x \text{ | } x \neq 0, x \neq 1\\}$$
+$$f \text{ is defined on } \\{x \text{ | } x = \not 0, x = \not 1\\}$$
 
 $$(-\infty, 0) \cup (0, 1) \cup (1, \infty)$$
 

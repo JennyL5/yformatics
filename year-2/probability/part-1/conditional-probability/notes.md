@@ -12,7 +12,7 @@ $$\Bbb{P}(E \cap F) = \Bbb{P}(E)\Bbb{P}(F)$$
 
 This means that the probability of either event occurring has no effect on the other. Events being independent is generally not equivalent to events being mutually exclusive.
 
-This also affects conditional probability calculations, if $E$ and $F$ are independent and $E \text{ 'not equal' } \emptyset$ then:
+This also affects conditional probability calculations, if $E$ and $F$ are independent and $E = \not \emptyset$ then:
 
 $$\Bbb{P}(E|F) = \dfrac{\Bbb{P}(E \cap F)}{\Bbb{P}(F)} = \Bbb{P}(E)$$
 

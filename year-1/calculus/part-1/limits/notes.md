@@ -28,7 +28,7 @@ When calculating limits there are 8 rules that can make them much easier to deal
 
 4. $\displaystyle\lim_{x \to a} [f(x) g(x)] = \displaystyle\lim_{x \to a} f(x) \times \displaystyle\lim_{x \to a} g(x)$
 
-5. $\displaystyle\lim_{x \to a} \frac{f(x)}{g(x)} = \dfrac{\displaystyle\lim_{x \to a} f(x)}{\displaystyle\lim_{x \to a} g(x)} \qquad \text{ if } \displaystyle\lim_{x \to a} g(x) \neq 0$
+5. $\displaystyle\lim_{x \to a} \frac{f(x)}{g(x)} = \dfrac{\displaystyle\lim_{x \to a} f(x)}{\displaystyle\lim_{x \to a} g(x)} \qquad \text{ if } \displaystyle\lim_{x \to a} g(x) = \not 0$
 
 6. $\displaystyle\lim_{x \to a} [f(x)]^n = \Big[\displaystyle\lim_{x \to a} f(x) \Big]^n$
 
