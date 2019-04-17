@@ -96,3 +96,7 @@ As there is no symmetry with respect to the origin, we can say this funcion is n
 ## Concavity
 
 ## Sketch
+
+Now that we have all of the information we need, we can use this to sketch the graph. Start with the axis intercepts and Asymptotes to mark where the lines go to and then use the increasing, decreasing and concavity values to draw in the connecting lines.
+
+![Sketch](sketch.svg)
