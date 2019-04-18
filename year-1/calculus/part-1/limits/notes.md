@@ -55,11 +55,28 @@ When calculating limits there are 8 rules that can make them much easier to deal
 
 ## Calculating limits
 
-3 techniques
+When finding the values of limits, there are three main techniques depending on the nature of the question.
 
-- Direct subsitution
-- Common factors
-- something
+- Direct subsitution <br>
+  This is the simplest case, where either the answer is obvious or you can find it by applying the laws above. Be careful that this only applies if the function is continuous and so the values on either side of $a$ lead up to the limit.
+
+  $$\displaystyle\lim_{x \to 1} x + 1 = 2$$
+
+- Common factors <br>
+  When it is clear that limit laws cannot be applied to solve the problem, your next step is to factorise the function. This is most common when faced with a division where at the limit the denominator would be 0, making the entire function undefined. When this happens, there is often a certain factorisation that will present a factor of one part that already appears as another part of the function and can, therefore, be canceled out.
+
+  $$
+  \begin{aligned}
+  \displaystyle\lim_{x \to 1} \dfrac{x^2 - 1}{x - 1} &= \displaystyle\lim_{x \to 1} \dfrac{(x - 1)(x + 1)}{x - 1} \\\\
+  \\\\
+  &= \displaystyle\lim_{x \to 1} x + 1
+  \end{aligned}
+  $$
+
+  As you can see, after factorising this example then reduces down to a problem where you can use direct substitution. Remember that while canceling a function down may change the value at $a$, to find a limit we only need to consider values sufficiently close to $a$.
+
+- Rationalising the function <br>
+  Sometimes, especially when dealing with functions containing roots, limit laws cannot be applied right away and so we need to rationalise it first. This involves miltiplying the whole function by a rational version of the root over itself to eleiminate it without changing the values given by the function.
 
 ## L'hopitals rule
 
