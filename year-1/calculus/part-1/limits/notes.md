@@ -11,21 +11,21 @@ This means that as $x$ tends to $a$ we see that $f(x)$ tends to $L$.
 When working with a discontinuous function, there may be points where the limit as $x$ approaches $a$ from one side is different than from the other side. There are three main possibilities when looking at limits:
 
 - Only the left limit is defined <br>
-  Suppose that a limit at a point exists only when $x$ approaches $a$ from the lower side. We represtent this as the limit when $x$ is sufficiently close to but less than $a$:
+  Suppose that a limit at a point exists only when $x$ approaches $a$ from the lower side. We represent this as the limit when $x$ is sufficiently close to but less than $a$:
 
   $$\displaystyle\lim_{x \to a^-} f(x)$$
 
   <br>
 
 - Only the right limit is defined <br>
-  Suppose that a limit at a point exists only when $x$ approaches $a$ from the higher side. We represtent this as the limit when $x$ is sufficiently close to but greater than $a$:
+  Suppose that a limit at a point exists only when $x$ approaches $a$ from the higher side. We represent this as the limit when $x$ is sufficiently close to but greater than $a$:
 
   $$\displaystyle\lim_{x \to a^+} f(x)$$
 
   <br>
 
 - Both the left and right limits are defined <br>
-  Suppose that a limit at a point exists when $x$ approaches $a$ from both sides. However, becuase the function is discontinuous the two limits return differnt values. For example, in this case the left and right limits will be given by:
+  Suppose that a limit at a point exists when $x$ approaches $a$ from both sides. However, because the function is discontinuous the two limits return different values. For example, in this case, the left and right limits will be given by:
 
 $$\displaystyle\lim_{x \to 0^-} f(x) = \dfrac{3}{2} \qquad \displaystyle\lim_{x \to 0^+} f(x) = \dfrac{5}{2}$$
 
