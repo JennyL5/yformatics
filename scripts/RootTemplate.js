@@ -10,8 +10,8 @@ let render = data =>
           content: `width=device-width,initial-scale=1.0`
         }),
         E.Title(`Yformatics`),
-        E.StyleTemplate(data)
-      ),
+        E.StyleTemplate(data),
+            ),
       E.Body(
         E.Div({ class: [`page-container`, `root`] })(
           E.Div({ class: [`page-tabs`] })(
