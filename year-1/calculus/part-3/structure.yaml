@@ -2,7 +2,7 @@
   slug: arc-length
   name: Arc Length
   image: blank.jpg
-  visible: true
+  visible: false
 
 - type: topic
   slug: differential-equations
