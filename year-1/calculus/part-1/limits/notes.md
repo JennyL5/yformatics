@@ -81,3 +81,5 @@ When finding the values of limits, there are three main techniques depending on 
 ## L'hopitals rule
 
 ## The squeeze theorem
+
+Despite all of the different techniques for calculating limits, there are still times when it is not possible. However, in these cases, there are other rules we can use to find a limit, one of which is the squeeze theorem. This dictates that if the limit of a function $f$ is not known as $x$ approaches $a$ but we have two other functions that bound $f$ on either side such that:

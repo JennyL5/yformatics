@@ -32,7 +32,7 @@ In any given situation, we are able to calculate the value of a discrete random 
 
 It is given by the equation below:
 
-$$\Bbb{E}[X] = \sum\limits_{k=0}^{n} k\Bbb{P}(X = k)$$
+$$\Bbb{E}[X] = \displaystyle\sum\limits_{k=0}^{n} k\Bbb{P}(X = k)$$
 
 It is important to note that the above will change depending on the type of random variable you are working with. In other words, be careful when expanding $\Bbb{P}(X = k)$.
 
