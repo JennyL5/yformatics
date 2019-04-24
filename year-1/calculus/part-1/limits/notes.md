@@ -80,6 +80,19 @@ When finding the values of limits, there are three main techniques depending on 
 
 ## L'hopitals rule
 
+Suppose you need to find the limit of a function that is the quotient of two separate functions of $x$ where the limits of each individually are either both 0 or both infinity. If this is the case then:
+
+$$\displaystyle\lim_{x \to a} \dfrac{f(x)}{g(x)} = \displaystyle\lim_{x \to a} \dfrac{f'(x)}{g'(x)}$$
+
 ## The squeeze theorem
 
-Despite all of the different techniques for calculating limits, there are still times when it is not possible. However, in these cases, there are other rules we can use to find a limit, one of which is the squeeze theorem. This dictates that if the limit of a function $f$ is not known as $x$ approaches $a$ but we have two other functions that bound $f$ on either side such that:
+Despite all of the different techniques for calculating limits, there are still times when it is not possible. However, in these cases, there are other rules we can use to find a limit, one of which is the squeeze theorem. This dictates that if the limit of a function $f$ is not known as $x$ approaches $a$ but we have two other functions that bound $f$ on either side such that if:
+
+$$
+g(x) \le f(x) \le h(x) \\\\
+\displaystyle\lim_{x \to a} g(x) = \displaystyle\lim_{x \to a} h(x) = L.
+$$
+
+Then:
+
+$$\displaystyle\lim_{x \to a} f(x) = L$$

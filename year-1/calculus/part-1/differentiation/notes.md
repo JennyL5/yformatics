@@ -17,6 +17,8 @@ $$f'(x) = \displaystyle\lim_{h \to 0} \dfrac{f(x + h) - f(x)}{h}$$
 
 This can be very useful and there is guaranteed to be a question in the exam where you need to use this so it is worth learning.
 
+A function is said to be differentiable at a point $a$ if $f'(a)$ exists. It might be a hint that a function isn't differentiable if it is discontinuous or has asymptotes.
+
 ## Chain rule
 
 In a previous topic, we looked at composite functions. When you have a function that is the composite of two separate functions of $x$.
