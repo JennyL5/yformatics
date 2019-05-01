@@ -41,13 +41,7 @@
   visible: true
 
 - type: topic
-  slug: single-layer-neural-networks
-  name: Single Layer Neural Networks
-  image: single-layer-neural-networks.jpg
+  slug: neural-networks
+  name: Neural Networks
+  image: neural-networks.jpg
   visible: true
-
-- type: topic
-  slug: multi-layer-neural-networks
-  name: Multi Layer Neural Networks
-  image: blank.jpg
-  visible: false
