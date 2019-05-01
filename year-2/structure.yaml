@@ -25,3 +25,10 @@
   colour: "#7E57C2"
   image: FIDE.svg
   visible: true
+
+- type: subject
+  slug: bais
+  name: BAIS
+  colour: "#FF9800"
+  image: FIDE.svg
+  visible: true

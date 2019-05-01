@@ -72,7 +72,7 @@ Another way to work out the area under a graph is to approximate it with rectang
 
 The area of the region under the graph of a continuous function is the limit of the sum of the areas of approximating rectangles:
 
-$$A = \displaystyle\lim_{x \to \infty} \displaystyle\sum\limits_{k=1}^{n} f(x_k)\Delta x$$
+$$A = \displaystyle\lim_{n \to \infty} \displaystyle\sum\limits_{k=1}^{n} f(x_k)\Delta x$$
 
 Where each $f(x)$ is the point at which each rectangle meets each rectangle and $\Delta x$ is the width of each rectangle which can be calculated by:
 
