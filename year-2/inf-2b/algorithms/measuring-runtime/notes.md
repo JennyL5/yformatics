@@ -65,3 +65,19 @@ Similar to big-O setting an upper bound, this tells us the growth rate of the ru
 ## Big-Θ notation
 
 Now that you can work out the upper and lower bounds of a given algorithm, there is one more notation to be aware of. An algorithm $f$ is said to be $\Theta(g)$ if $f = O(g)$ and $f = \Omega(g)\$.
+
+## The Master Theorem
+
+The Master Theorem is used for assymptotic analysis of algorithms in the form of recurrence relations. The theorem is given below:
+
+$\text{Let } n_0 \in \N, \text{ } k \in \N_{0} \text{ and a, b} \in \R \text{ with } a \gt 0 \text{ and } b \gt 1, \text{ and let } \newline \text{T : } \N  \rightarrow \N  \text{ satisfy the following condition: }$
+
+<!--
+$\text{T(n)} = \Theta(1) \text{, if n}  \lt n_{0} \n \text{T(n) = a} T(\frac{n}{b}) + \Theta(n^{k}) \text{, if n } \geq n_{0}$
+-->
+
+$$\text{T(n) = }\begin{cases} \Theta(1), \text{ if n} \lt n_{0} \\\\ aT(\frac{n}{b}) + \Theta(n^{k}), \text{ if n } \geq n_{0} \end{cases}$$
+
+$\text{Let } e = \log_{b}(a) \text{; we call } e \text{ the critical exponent. Then }$
+
+$$\text{T(n) = }\begin{cases} \Theta(n^{e}), \text{ if k } \lt e \\\\ \Theta(n^{e}lg(n)), \text{ if k } = e \\\\ \Theta(n^{k}), \text{ if k } \gt e \end{cases}$$

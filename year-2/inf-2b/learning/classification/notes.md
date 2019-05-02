@@ -26,9 +26,13 @@ Which value of K you use, how many points you compare, is a matter of debate. Th
 
 Boundaries can also be drawn between points to more clearly classify them. This is done by calculating the midpoint along each Euclidean distance and drawing a perpendicular bisector through that point.
 
+<!-- Image -->
+
 Voronoi diagrams
 
 The areas within each decision boundary are called a decision region.
+
+<!-- Image -->
 
 Class boundaries are decision boundaries
 
