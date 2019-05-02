@@ -90,3 +90,11 @@ $$
 \Theta(n^{k}), &\text{ if k } \gt e
 \end{cases}
 $$
+
+## In-Place
+
+An algorithm is said to be **in-place** if it can implement on the input array with only $O(1)$ extra space. For example, Quick Sort and Insertion Sort.
+
+## Stable
+
+An algorithm is said to be **stable** if for every pair of indices with $A[i].key = A[j].key$ and $i \lt j, $ the entry $A[i]$ comes before $A[j]$ in the output array. For example, Insertion Sort and Merge Sort. 
