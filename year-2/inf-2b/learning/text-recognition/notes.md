@@ -38,3 +38,7 @@ This Bayes method gives the minimum error rate and it is often referred to as ei
 
 - Minimum error rate classification
 - Maximum posterior probability decision rule
+
+## Identifying spam
+
+One major application of probabilistic classification is the identification and prevention of spam emails.
