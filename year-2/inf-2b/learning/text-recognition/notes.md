@@ -30,7 +30,7 @@ Where these values should be more or less provided to you in the data. $\Bbb{P}(
 
 However, an important observation is that:
 
-$$\Bbb{P}(C_k|x) \propto \Bbb{P}(x|c_k)$$
+$$\Bbb{P}(C_k|x) \propto \Bbb{P}(x|C_k)\Bbb{P}(C_k)$$
 
 This means that if you are asked to find the posterior probabilities then you need to do the full calculation to determine the answer. However, if a question only asks you to determine which class a data object will be in based on the data then you can do two much simpler calculations and then just compare which one is higher.
 
