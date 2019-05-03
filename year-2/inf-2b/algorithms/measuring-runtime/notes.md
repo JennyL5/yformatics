@@ -50,7 +50,7 @@ There may be more than one correct set of values for $c$ and $n_0$ in each case.
 
 7. For any constants $a \gt 0$ in $\Bbb{R}: lg(n^a) = O(lg(n))$
 
-8. For any constants $a \gt 0$ and $b \gt 1$ in $\Bbb{R}: lg^a(n) = O(n^b)$
+8. For any constants $a \gt 0$ and $b \gt 0$ in $\Bbb{R}: lg^a(n) = O(n^b)$
 
 ## Big-Ω notation
 
@@ -97,4 +97,4 @@ An algorithm is said to be **in-place** if it can implement on the input array w
 
 ## Stable
 
-An algorithm is said to be **stable** if for every pair of indices with $A[i].key = A[j].key$ and $i \lt j, $ the entry $A[i]$ comes before $A[j]$ in the output array. For example, Insertion Sort and Merge Sort. 
+An algorithm is said to be **stable** if for every pair of indices with $A[i].key = A[j].key$ and $i \lt j, $ the entry $A[i]$ comes before $A[j]$ in the output array. For example, Insertion Sort and Merge Sort.
