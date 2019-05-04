@@ -1,8 +1,8 @@
 ## Heaps
 
+
 A heap is an almost complete binary tree whose internal vertices store items such that for every vertex $v$ other than the root, the key stored
 at $v$ is smaller than or equal to the key stored at the parent of $v$. Where the maximum element is at the root.
-
 For all $n$ with $2^{h-1}$ $\leq$ n $\leq$ $2^{h} - 1$ we have $\lfloor{lg(n)}\rfloor = h - 1$.
 The last vertex of a heap of height h is the right-most internal vertex in the $h^{th}$ level.
 
@@ -49,15 +49,17 @@ function insertItem(k, e)
 
 ## Heaps as arrays
 The items of the heap are stored in an array, with the internal vertices as indices of the array by numbering them level-wise from the left to the right. The $\lfloor{\frac{n-2}{n}}\rfloor$ is the maximum $v$ such that $2v + 1 \leq n - 1$.
-<!--
-To turn the heap to an array:
+
+To turn the heap into an array:
 ```
 function buildHeap(H)
    n = H.length
-   for v = $\lfloor{\frac{n-2}{n}}\rfloor$ downto 0 do
+   for v = floor((n-2)/2) downto 0 do
    for v =
    heapify(v)
 ```
--->
 
 ## Priority Queues
+A priority queue stores a collection of elements. The elements have certain levels of priorities associated with them, measured by the key of the element. So the highest priority elements is the largest key and hence gets out first.
+
+The maximum key in a binary search tree is stored in the right-most internal vertex. SO all Priority Queue methods can be implemented on an AVL tree with running time $\Theta(lg(n))$.
