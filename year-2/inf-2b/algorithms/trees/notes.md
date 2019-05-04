@@ -15,11 +15,15 @@ A tree structure is specifically a binary search tree if, for every internal ver
 - The key of that vertex is greater than or equal to every key in its left subtree.
 - The key of that vertex is less than or equal to every key in its right subtree.
 
+The leaves of the tree are kept empty to that $null$ can be returned when methods hit the end of a path.
+
 ## Tree height
 
 The height of a vertex is measured by the maximum length of a path downwards to a leaf of the tree. The overall height of a tree is defined as the height of the root vertex.
 
 If we were to use a binary search tree as an implementation of a dictionary then we would use methods findElement, insertItemBST and removeItemBST. Each would have runtime $\Theta(h)$ where $h$ is the height of the tree.
+
+When talking about a 'level' of a tree we are referring to how many steps that level is from the root where the root is level 0.
 
 ## AVL trees
 
